@@ -1,0 +1,38 @@
+{
+    "name": "Chewy & Moist Chocolate Chip Cookies",
+    "tags": ["dessert", "sweets", "baked goods", "cookies"],
+    "servings": 24,
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "chill_time": "2 hours",
+    "ingredients": [
+        "2 ¼ cups all-purpose flour",
+        "2 tsp cornstarch",
+        "1 tsp baking soda",
+        "½ tsp salt",
+        "¾ cup unsalted butter, melted and slightly cooled",
+        "1 cup brown sugar, packed",
+        "½ cup granulated sugar",
+        "1 large egg",
+        "1 large egg yolk",
+        "2 tsp vanilla extract",
+        "1 ¼ cups semisweet chocolate chips"
+    ],
+    "instructions": [
+        "Whisk together the flour, cornstarch, baking soda, and salt.",
+        "In a large bowl, whisk the melted butter, brown sugar, and granulated sugar.",
+        "Add the egg, egg yolk, and vanilla extract and mix until well combined.",
+        "Gradually add the dry ingredients, mixing just until combined.",
+        "Fold in the chocolate chips.",
+        "Cover and refrigerate the dough for at least 2 hours.",
+        "Preheat oven to 350°F (175°C) and line baking sheets with parchment paper.",
+        "Scoop about 1.5 tablespoons of dough per cookie, roll into balls, and place 2 inches apart.",
+        "Bake for 10-12 minutes, rotating the pan halfway through.",
+        "Let cool on the baking sheet for 5 minutes, then transfer to a wire rack."
+    ],
+    "storage_tips": {
+        "room_temp": "Store in an airtight container for up to 5 days with a slice of bread to keep them soft.",
+        "freezing_dough": "Freeze pre-scooped dough, bake from frozen.",
+        "freezing_cookies": "Freeze baked cookies for up to 3 months."
+    }
+}
