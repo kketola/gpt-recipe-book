@@ -11,23 +11,49 @@ document.addEventListener("DOMContentLoaded", function () {
 
             Promise.all(filePromises).then(recipes => {
                 const recipe = recipes.find(r => r.name === recipeName);
-                if (!recipe) return;
+                if (!recipe) {
+                    document.getElementById("recipe-details").innerHTML = "<p>Recipe not found.</p>";
+                    return;
+                }
 
-                const details = document.getElementById("recipe-details");
-                details.innerHTML = `
-                    <h1>${recipe.name}</h1>
-                    <p><strong>Tags:</strong> ${recipe.tags.join(", ")}</p>
-                    <h2>Ingredients</h2>
-                    <ul>${recipe.ingredients.map(ing => 
-    			`<li>${ing.amount} (${ing.grams}g) - ${ing.ingredient}</li>`).join("")}
-                    </ul>
-                    <h2>Instructions</h2>
-                    <ol>${recipe.instructions.map(step => `<li>${step}</li>`).join("")}</ol>
-                    <h2>Storage Tips</h2>
-                    <p><strong>Room Temperature:</strong> ${recipe.storage_tips.room_temp}</p>
-                    <p><strong>Freezing Dough:</strong> ${recipe.storage_tips.freezing_dough}</p>
-                    <p><strong>Freezing Cookies:</strong> ${recipe.storage_tips.freezing_cookies}</p>
-                `;
+                let detailsHTML = `<h1>${recipe.name}</h1>`;
+
+                // Display tags (if available)
+                if (recipe.tags && recipe.tags.length) {
+                    detailsHTML += `<p><strong>Tags:</strong> ${recipe.tags.join(", ")}</p>`;
+                }
+
+                // Display cooking details
+                detailsHTML += `<p><strong>Servings:</strong> ${recipe.servings}</p>`;
+                if (recipe.prep_time) detailsHTML += `<p><strong>Prep Time:</strong> ${recipe.prep_time}</p>`;
+                if (recipe.cook_time) detailsHTML += `<p><strong>Cook Time:</strong> ${recipe.cook_time}</p>`;
+                if (recipe.chill_time) detailsHTML += `<p><strong>Chill Time:</strong> ${recipe.chill_time}</p>`;
+
+                // Display Ingredients
+                if (recipe.ingredients && Array.isArray(recipe.ingredients)) {
+                    detailsHTML += "<h2>Ingredients</h2><ul>";
+                    detailsHTML += recipe.ingredients.map(ing => 
+                        `<li>${ing.amount} (${ing.grams}g) - ${ing.ingredient}</li>`
+                    ).join("");
+                    detailsHTML += "</ul>";
+                }
+
+                // Display Instructions
+                if (recipe.instructions && Array.isArray(recipe.instructions)) {
+                    detailsHTML += "<h2>Instructions</h2><ol>";
+                    detailsHTML += recipe.instructions.map(step => `<li>${step}</li>`).join("");
+                    detailsHTML += "</ol>";
+                }
+
+                // Display Storage Tips (Only if they exist)
+                if (recipe.storage_tips) {
+                    detailsHTML += "<h2>Storage Tips</h2>";
+                    for (const [key, value] of Object.entries(recipe.storage_tips)) {
+                        detailsHTML += `<p><strong>${key.replace("_", " ")}:</strong> ${value}</p>`;
+                    }
+                }
+
+                document.getElementById("recipe-details").innerHTML = detailsHTML;
             });
         });
 });
