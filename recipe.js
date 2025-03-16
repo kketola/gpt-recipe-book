@@ -18,7 +18,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     <h1>${recipe.name}</h1>
                     <p><strong>Tags:</strong> ${recipe.tags.join(", ")}</p>
                     <h2>Ingredients</h2>
-                    <ul>${recipe.ingredients.map(ing => `<li>${ing}</li>`).join("")}</ul>
+                    <ul>${recipe.ingredients.map(ing => 
+    			`<li>${ing.amount} (${ing.grams}g) - ${ing.ingredient}</li>`).join("")}
+                    </ul>
                     <h2>Instructions</h2>
                     <ol>${recipe.instructions.map(step => `<li>${step}</li>`).join("")}</ol>
                     <h2>Storage Tips</h2>

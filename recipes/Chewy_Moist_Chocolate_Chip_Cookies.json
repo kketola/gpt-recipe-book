@@ -6,17 +6,61 @@
     "cook_time": "10 minutes",
     "chill_time": "2 hours",
     "ingredients": [
-        "2 ¼ cups all-purpose flour",
-        "2 tsp cornstarch",
-        "1 tsp baking soda",
-        "½ tsp salt",
-        "¾ cup unsalted butter, melted and slightly cooled",
-        "1 cup brown sugar, packed",
-        "½ cup granulated sugar",
-        "1 large egg",
-        "1 large egg yolk",
-        "2 tsp vanilla extract",
-        "1 ¼ cups semisweet chocolate chips"
+        {
+            "amount": "2 ¼ cups",
+            "grams": 280,
+            "ingredient": "all-purpose flour (Canadian flour preferred; reduce slightly if dough feels too dry)"
+        },
+        {
+            "amount": "2 tsp",
+            "grams": 5,
+            "ingredient": "cornstarch"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 6,
+            "ingredient": "baking soda"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 3,
+            "ingredient": "salt"
+        },
+        {
+            "amount": "¾ cup",
+            "grams": 170,
+            "ingredient": "unsalted butter, melted and slightly cooled"
+        },
+        {
+            "amount": "1 cup",
+            "grams": 200,
+            "ingredient": "brown sugar, packed"
+        },
+        {
+            "amount": "½ cup",
+            "grams": 100,
+            "ingredient": "granulated sugar"
+        },
+        {
+            "amount": "1",
+            "grams": 50,
+            "ingredient": "large egg"
+        },
+        {
+            "amount": "1",
+            "grams": 17,
+            "ingredient": "large egg yolk"
+        },
+        {
+            "amount": "2 tsp",
+            "grams": 8,
+            "ingredient": "vanilla extract"
+        },
+        {
+            "amount": "1 ¼ cups",
+            "grams": 200,
+            "ingredient": "semisweet chocolate chips"
+        }
     ],
     "instructions": [
         "Whisk together the flour, cornstarch, baking soda, and salt.",
