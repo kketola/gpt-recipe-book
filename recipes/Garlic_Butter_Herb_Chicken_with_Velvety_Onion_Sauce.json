@@ -1,127 +1,118 @@
 {
-  "name": "Garlic Butter Herb Chicken with Velvety Onion Sauce",
-  "description": "Juicy pan-seared and oven-baked chicken thighs with a rich, velvety onion sauce made from the pan juices.",
-  "servings": 4,
-  "prep_time_minutes": 15,
-  "cook_time_minutes": 30,
-  "total_time_minutes": 45,
-  "tags": ["chicken", "garlic butter", "herb chicken", "onion sauce", "comfort food", "easy dinner"],
-  "categories": ["Dinner", "Main Course", "Poultry"],
-  "source": "Original",
-  "ingredients": [
-    {
-      "name": "boneless, skinless chicken thighs",
-      "quantity": 1000,
-      "unit": "g"
-    },
-    {
-      "name": "neutral oil (avocado, grapeseed, or canola)",
-      "quantity": 2,
-      "unit": "tbsp"
-    },
-    {
-      "name": "kosher salt",
-      "quantity": 1.5,
-      "unit": "tsp"
-    },
-    {
-      "name": "black pepper",
-      "quantity": 1,
-      "unit": "tsp"
-    },
-    {
-      "name": "paprika",
-      "quantity": 0.5,
-      "unit": "tsp"
-    },
-    {
-      "name": "dried thyme",
-      "quantity": 0.5,
-      "unit": "tsp"
-    },
-    {
-      "name": "dried oregano",
-      "quantity": 0.5,
-      "unit": "tsp"
-    },
-    {
-      "name": "dried parsley",
-      "quantity": 0.5,
-      "unit": "tsp"
-    },
-    {
-      "name": "unsalted butter",
-      "quantity": 4,
-      "unit": "tbsp"
-    },
-    {
-      "name": "garlic cloves, minced",
-      "quantity": 5,
-      "unit": "cloves"
-    },
-    {
-      "name": "red or yellow onion, thinly sliced",
-      "quantity": 100,
-      "unit": "g"
-    },
-    {
-      "name": "lemon juice",
-      "quantity": 0.5,
-      "unit": "lemon"
-    },
-    {
-      "name": "lemon zest",
-      "quantity": 1,
-      "unit": "lemon"
-    },
-    {
-      "name": "low-sodium chicken broth or water",
-      "quantity": 120,
-      "unit": "ml"
-    },
-    {
-      "name": "unsalted butter (for roux)",
-      "quantity": 1,
-      "unit": "tbsp"
-    },
-    {
-      "name": "all-purpose flour",
-      "quantity": 1,
-      "unit": "tbsp"
-    },
-    {
-      "name": "scallions or cilantro (optional garnish)",
-      "quantity": 1,
-      "unit": "tbsp"
-    }
-  ],
-  "instructions": [
-    "Pat the chicken thighs dry with paper towels.",
-    "In a small bowl, mix together salt, black pepper, paprika, thyme, oregano, and parsley. Rub evenly onto the chicken.",
-    "Heat oil in a skillet over medium-high heat.",
-    "Sear chicken smooth side down for 1 minute, then flip and sear for another 1 minute.",
-    "In a lightly greased baking dish, scatter the sliced onion on the bottom.",
-    "Arrange the seared chicken on top of the onions.",
-    "Dot the butter pieces around and on top of the chicken.",
-    "Sprinkle minced garlic, lemon zest, and lemon juice over everything.",
-    "Pour chicken broth into the dish for moisture.",
-    "Bake at 375°F (190°C) for 20 minutes, basting with pan juices at the 10-minute mark.",
-    "Once baked, remove the chicken from the baking dish and set it aside on serving plates.",
-    "Pour all the onions and pan juices into a saucepan over medium heat.",
-    "In the now-empty baking dish, melt 1 tbsp butter and whisk in 1 tbsp flour to form a roux.",
-    "Slowly pour in the reserved pan juices and onions, whisking continuously until smooth and slightly thickened.",
-    "Simmer for 2-3 minutes until the sauce reaches a silky consistency.",
-    "Drizzle the velvety onion sauce over the plated chicken.",
-    "Garnish with fresh parsley, scallions, or cilantro if desired."
-  ],
-  "notes": [
-    "If using a cold smoker, smoke the chicken for 15-20 minutes with mild wood before seasoning and searing.",
-    "For extra richness, replace water with chicken broth or white wine.",
-    "Pairs well with mashed potatoes, rice, or crusty bread."
-  ],
-  "metadata": {
-    "created_by": "Kenneth Micheal Joseph Ketola",
-    "date_created": "2025-03-17",
-    "last_modified": "2025-03-17"
-  }
+    "name": "Garlic Butter Herb Chicken with Velvety Onion Sauce",
+    "tags": ["chicken", "garlic butter", "herb chicken", "onion sauce", "comfort food", "easy dinner"],
+    "servings": 4,
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes",
+    "ingredients": [
+        {
+            "amount": "1 kg",
+            "grams": 1000,
+            "ingredient": "boneless, skinless chicken thighs"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 28,
+            "ingredient": "neutral oil (avocado, grapeseed, or canola)"
+        },
+        {
+            "amount": "1 ½ tsp",
+            "grams": 9,
+            "ingredient": "kosher salt"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 2,
+            "ingredient": "black pepper"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 1,
+            "ingredient": "paprika"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 0.5,
+            "ingredient": "dried thyme"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 0.5,
+            "ingredient": "dried oregano"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 0.5,
+            "ingredient": "dried parsley"
+        },
+        {
+            "amount": "4 tbsp",
+            "grams": 56,
+            "ingredient": "unsalted butter"
+        },
+        {
+            "amount": "5 cloves",
+            "grams": 15,
+            "ingredient": "garlic, minced"
+        },
+        {
+            "amount": "½ medium",
+            "grams": 100,
+            "ingredient": "red or yellow onion, thinly sliced"
+        },
+        {
+            "amount": "juice of ½",
+            "grams": 25,
+            "ingredient": "lemon"
+        },
+        {
+            "amount": "zest of 1",
+            "grams": 5,
+            "ingredient": "lemon"
+        },
+        {
+            "amount": "½ cup",
+            "grams": 120,
+            "ingredient": "low-sodium chicken broth or water"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 14,
+            "ingredient": "unsalted butter (for roux)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 8,
+            "ingredient": "all-purpose flour"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 4,
+            "ingredient": "scallions or cilantro (optional garnish)"
+        }
+    ],
+    "instructions": [
+        "Pat the chicken thighs dry with paper towels.",
+        "In a small bowl, mix together salt, black pepper, paprika, thyme, oregano, and parsley. Rub evenly onto the chicken.",
+        "Heat oil in a skillet over medium-high heat.",
+        "Sear chicken smooth side down for 1 minute, then flip and sear for another 1 minute.",
+        "In a lightly greased baking dish, scatter the sliced onion on the bottom.",
+        "Arrange the seared chicken on top of the onions.",
+        "Dot the butter pieces around and on top of the chicken.",
+        "Sprinkle minced garlic, lemon zest, and lemon juice over everything.",
+        "Pour chicken broth into the dish for moisture.",
+        "Bake at 375°F (190°C) for 20 minutes, basting with pan juices at the 10-minute mark.",
+        "Once baked, remove the chicken from the baking dish and set it aside on serving plates.",
+        "Pour all the onions and pan juices into a saucepan over medium heat.",
+        "In the now-empty baking dish, melt 1 tbsp butter and whisk in 1 tbsp flour to form a roux.",
+        "Slowly pour in the reserved pan juices and onions, whisking continuously until smooth and slightly thickened.",
+        "Simmer for 2-3 minutes until the sauce reaches a silky consistency.",
+        "Drizzle the velvety onion sauce over the plated chicken.",
+        "Garnish with fresh parsley, scallions, or cilantro if desired."
+    ],
+    "notes": [
+        "If using a cold smoker, smoke the chicken for 15-20 minutes with mild wood before seasoning and searing.",
+        "For extra richness, replace water with chicken broth or white wine.",
+        "Pairs well with mashed potatoes, rice, or crusty bread."
+    ]
 }
