@@ -5,6 +5,9 @@
   "prep_time_minutes": 15,
   "cook_time_minutes": 30,
   "total_time_minutes": 45,
+  "tags": ["chicken", "garlic butter", "herb chicken", "onion sauce", "comfort food", "easy dinner"],
+  "categories": ["Dinner", "Main Course", "Poultry"],
+  "source": "Original",
   "ingredients": [
     {
       "name": "boneless, skinless chicken thighs",
@@ -115,5 +118,10 @@
     "If using a cold smoker, smoke the chicken for 15-20 minutes with mild wood before seasoning and searing.",
     "For extra richness, replace water with chicken broth or white wine.",
     "Pairs well with mashed potatoes, rice, or crusty bread."
-  ]
+  ],
+  "metadata": {
+    "created_by": "Kenneth Micheal Joseph Ketola",
+    "date_created": "2025-03-17",
+    "last_modified": "2025-03-17"
+  }
 }
