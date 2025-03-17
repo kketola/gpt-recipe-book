@@ -2,11 +2,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const params = new URLSearchParams(window.location.search);
     const recipeName = params.get("name");
 
-    fetch("recipes/index.json")
+    // Ensure Date.now() is properly used inside backticks
+    fetch(`recipes/index.json?v=${Date.now()}`)
         .then(response => response.json())
         .then(files => {
             const filePromises = files.map(file =>
-                fetch(`recipes/${file}`).then(response => response.json())
+                fetch(`recipes/${file}?v=${Date.now()}`)
+                    .then(response => response.json())
             );
 
             Promise.all(filePromises).then(recipes => {
@@ -54,6 +56,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
 
                 document.getElementById("recipe-details").innerHTML = detailsHTML;
-            });
-        });
+            })
+            .catch(error => console.error("Error loading recipes:", error)); // Catch any errors from Promise.all
+        })
+        .catch(error => console.error("Fetch Error (index.json):", error)); // Catch any errors from fetching index.json
 });
