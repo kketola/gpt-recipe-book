@@ -1,15 +1,6 @@
-/* General styles */
-body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #f5f5f5;
-    color: #333;
-    text-align: center;
-    padding: 20px;
-}
-
-/* Centered Container */
+/* Centered Container for Index Page */
 .container {
-    max-width: 800px;
+    max-width: 800px; /* Same width as recipe page */
     margin: 20px auto;
     background: white;
     padding: 20px;
@@ -17,7 +8,7 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Search Bar */
+/* Search Bar Styling */
 #search {
     width: 100%;
     padding: 12px;
@@ -27,8 +18,16 @@ body {
     margin-bottom: 20px;
 }
 
-/* Recipe Cards */
+/* Centered Recipe Cards */
+#recipe-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers recipe cards */
+}
+
 .recipe-card {
+    width: 100%;
+    max-width: 700px; /* Matches recipe page width */
     background: white;
     padding: 15px;
     margin: 10px 0;
@@ -42,71 +41,7 @@ body {
     transform: scale(1.02);
 }
 
-.recipe-card h2 {
-    margin: 0;
-    font-size: 22px;
-    color: #444;
-}
-
-.recipe-card p {
-    margin: 5px 0;
-    font-size: 14px;
-    color: #777;
-}
-
-.recipe-card a {
-    display: inline-block;
-    margin-top: 10px;
-    color: #007bff;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.recipe-card a:hover {
-    text-decoration: underline;
-}
-
-/* Recipe Details */
-#recipe-details {
-    text-align: left;
-    margin-top: 20px;
-}
-
-#recipe-details h1 {
-    color: #444;
-    font-size: 26px;
-}
-
-#recipe-details h2 {
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 5px;
-    margin-top: 20px;
-}
-
-ul, ol {
-    text-align: left;
-    padding-left: 20px;
-}
-
-/* Fancy Headers */
-h1 {
-    font-size: 28px;
-    font-weight: 600;
-    color: #333;
-}
-
-/* Add icons to details */
-.icon {
-    margin-right: 5px;
-    color: #007bff;
-}
-
-/* Dark Mode Styles */
-.dark-mode {
-    background-color: #222;
-    color: #ddd;
-}
-
+/* Dark Mode Adjustments */
 .dark-mode .container {
     background-color: #333;
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
@@ -132,75 +67,3 @@ h1 {
 .dark-mode a:hover {
     text-decoration: underline;
 }
-
-/* Button Styling */
-#dark-mode-toggle {
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    padding: 8px 15px;
-    font-size: 14px;
-    border-radius: 5px;
-    transition: all 0.3s ease;
-}
-
-.dark-mode #dark-mode-toggle {
-    background: #555;
-    color: #fff;
-}
-/* Dark Mode Styles for Recipe Page */
-.dark-mode {
-    background-color: #222;
-    color: #ddd;
-}
-
-.dark-mode .container {
-    background-color: #333;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-}
-
-.dark-mode .btn-primary {
-    background-color: #555;
-    border-color: #666;
-}
-
-.dark-mode .btn-outline-secondary {
-    background-color: #555;
-    color: #fff;
-    border-color: #777;
-}
-
-.dark-mode .btn-outline-secondary:hover {
-    background-color: #666;
-}
-
-/* Recipe Details Styling */
-#recipe-details h1 {
-    font-size: 26px;
-    font-weight: 600;
-    color: #444;
-}
-
-.dark-mode #recipe-details h1 {
-    color: #ddd;
-}
-
-#recipe-details h2 {
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 5px;
-    margin-top: 20px;
-}
-
-.dark-mode #recipe-details h2 {
-    border-bottom: 2px solid #666;
-}
-
-ul, ol {
-    text-align: left;
-    padding-left: 20px;
-}
-
-ul li, ol li {
-    padding: 5px 0;
-}
-

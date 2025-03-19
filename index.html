@@ -18,13 +18,23 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Recipe Book</h1>
-    <!-- Dark Mode Toggle Button -->
+
+    <!-- Dark Mode Toggle -->
     <button id="dark-mode-toggle" class="btn btn-outline-secondary">
-    <i class="fa-solid fa-moon"></i> Dark Mode
+        <i class="fa-solid fa-moon"></i> Dark Mode
     </button>
-    <input type="text" id="search" placeholder="Search recipes...">
-    <div id="recipe-list"></div>
+
+    <!-- Centered Content -->
+    <div class="container">
+        <h1>Recipe Book</h1>
+
+        <!-- Search Bar -->
+        <input type="text" id="search" class="form-control" placeholder="Search recipes...">
+
+        <!-- Recipe List -->
+        <div id="recipe-list"></div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
