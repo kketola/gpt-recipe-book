@@ -1,70 +1,74 @@
 {
-  "name": "Garlic Butter Lemon Sous Vide Prawns",
-  "description": "Tender, juicy prawns cooked sous vide with garlic, butter, and lemon for a perfectly balanced flavor.",
-  "ingredients": {
-    "medium frozen white prawns": {
-      "quantity": 340,
-      "unit": "g"
-    },
-    "unsalted butter": {
-      "quantity": 42,
-      "unit": "g"
-    },
-    "garlic": {
-      "quantity": 3,
-      "unit": "cloves",
-      "preparation": "minced"
-    },
-    "salt": {
-      "quantity": 0.5,
-      "unit": "tsp"
-    },
-    "black pepper": {
-      "quantity": 0.25,
-      "unit": "tsp",
-      "preparation": "freshly ground"
-    },
-    "red pepper flakes": {
-      "quantity": 0.5,
-      "unit": "tsp",
-      "optional": true
-    },
-    "olive oil": {
-      "quantity": 15,
-      "unit": "ml"
-    },
-    "lemon zest": {
-      "quantity": 1,
-      "unit": "lemon"
-    },
-    "lemon juice": {
-      "quantity": 15,
-      "unit": "ml"
-    },
-    "fresh parsley": {
-      "quantity": 1,
-      "unit": "tbsp",
-      "preparation": "chopped"
-    }
-  },
-  "instructions": [
-    "Preheat a sous vide water bath to 54°C (129°F) for tender prawns or 57°C (135°F) for a firmer texture.",
-    "If frozen, rinse prawns under cold water to remove excess ice. Pat dry.",
-    "Place prawns in a vacuum-seal bag or zip-lock freezer bag with butter, garlic, salt, black pepper, red pepper flakes (if using), olive oil, and lemon zest. Seal the bag.",
-    "Sous vide the prawns for 40 minutes if frozen or 25 minutes if thawed.",
-    "Heat a skillet over medium-high heat.",
-    "Remove prawns from the bag and pour the contents into the skillet.",
-    "Sear for 30-60 seconds per side to develop some color.",
-    "Add lemon juice and toss to coat.",
-    "Garnish with fresh parsley and serve immediately."
-  ],
-  "portioning": {
+    "name": "Garlic Butter Lemon Sous Vide Prawns",
+    "tags": ["sous vide", "seafood", "garlic butter", "lemon", "prawns"],
     "servings": 2,
-    "weight_per_serving": 170
-  },
-  "tags": ["sous vide", "seafood", "garlic butter", "lemon", "prawns"],
-  "category": "Seafood",
-  "prep_time_minutes": 5,
-  "cook_time_minutes": 40,
-  "total_time_minutes": 45
+    "prep_time": "5 minutes",
+    "cook_time": "40 minutes",
+    "ingredients": [
+        {
+            "amount": "340g",
+            "grams": 340,
+            "ingredient": "medium frozen white prawns, peeled and deveined"
+        },
+        {
+            "amount": "3 tbsp",
+            "grams": 42,
+            "ingredient": "unsalted butter, cubed"
+        },
+        {
+            "amount": "3 cloves",
+            "grams": 9,
+            "ingredient": "garlic, minced"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 3,
+            "ingredient": "salt"
+        },
+        {
+            "amount": "¼ tsp",
+            "grams": 1,
+            "ingredient": "black pepper, freshly ground"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 1,
+            "ingredient": "red pepper flakes (optional)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "olive oil"
+        },
+        {
+            "amount": "Zest of 1",
+            "grams": 3,
+            "ingredient": "lemon"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "lemon juice"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 4,
+            "ingredient": "fresh parsley, chopped"
+        }
+    ],
+    "instructions": [
+        "Preheat a sous vide water bath to 54°C (129°F) for tender prawns or 57°C (135°F) for a firmer texture.",
+        "If frozen, rinse prawns under cold water to remove excess ice. Pat dry.",
+        "Place prawns in a vacuum-seal bag or zip-lock freezer bag with butter, garlic, salt, black pepper, red pepper flakes (if using), olive oil, and lemon zest. Seal the bag using vacuum sealing or the water displacement method.",
+        "Sous vide the prawns for 40 minutes if frozen or 25 minutes if thawed.",
+        "Heat a skillet over medium-high heat.",
+        "Remove prawns from the bag and pour the contents into the skillet.",
+        "Sear for 30-60 seconds per side to develop a slight golden color.",
+        "Add lemon juice and toss to coat.",
+        "Garnish with fresh parsley and serve immediately."
+    ],
+    "storage_tips": {
+        "refrigeration": "Store cooked prawns in an airtight container in the fridge for up to 2 days.",
+        "freezing": "Freeze raw prawns in a sealed bag for up to 3 months. Do not refreeze after sous vide cooking."
+    }
 }
