@@ -1,62 +1,52 @@
 {
   "name": "Garlic Butter Lemon Sous Vide Prawns",
   "description": "Tender, juicy prawns cooked sous vide with garlic, butter, and lemon for a perfectly balanced flavor.",
-  "ingredients": [
-    {
-      "name": "medium frozen white prawns",
+  "ingredients": {
+    "medium frozen white prawns": {
       "quantity": 340,
       "unit": "g"
     },
-    {
-      "name": "unsalted butter",
+    "unsalted butter": {
       "quantity": 42,
       "unit": "g"
     },
-    {
-      "name": "garlic",
+    "garlic": {
       "quantity": 3,
       "unit": "cloves",
       "preparation": "minced"
     },
-    {
-      "name": "salt",
+    "salt": {
       "quantity": 0.5,
       "unit": "tsp"
     },
-    {
-      "name": "black pepper",
+    "black pepper": {
       "quantity": 0.25,
       "unit": "tsp",
       "preparation": "freshly ground"
     },
-    {
-      "name": "red pepper flakes",
+    "red pepper flakes": {
       "quantity": 0.5,
       "unit": "tsp",
       "optional": true
     },
-    {
-      "name": "olive oil",
+    "olive oil": {
       "quantity": 15,
       "unit": "ml"
     },
-    {
-      "name": "lemon zest",
+    "lemon zest": {
       "quantity": 1,
       "unit": "lemon"
     },
-    {
-      "name": "lemon juice",
+    "lemon juice": {
       "quantity": 15,
       "unit": "ml"
     },
-    {
-      "name": "fresh parsley",
+    "fresh parsley": {
       "quantity": 1,
       "unit": "tbsp",
       "preparation": "chopped"
     }
-  ],
+  },
   "instructions": [
     "Preheat a sous vide water bath to 54°C (129°F) for tender prawns or 57°C (135°F) for a firmer texture.",
     "If frozen, rinse prawns under cold water to remove excess ice. Pat dry.",
