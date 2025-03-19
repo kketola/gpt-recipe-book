@@ -1,0 +1,80 @@
+{
+  "name": "Garlic Butter Lemon Sous Vide Prawns",
+  "description": "Tender, juicy prawns cooked sous vide with garlic, butter, and lemon for a perfectly balanced flavor.",
+  "ingredients": [
+    {
+      "name": "medium frozen white prawns",
+      "quantity": 340,
+      "unit": "g"
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": 42,
+      "unit": "g"
+    },
+    {
+      "name": "garlic",
+      "quantity": 3,
+      "unit": "cloves",
+      "preparation": "minced"
+    },
+    {
+      "name": "salt",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "name": "black pepper",
+      "quantity": 0.25,
+      "unit": "tsp",
+      "preparation": "freshly ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "quantity": 0.5,
+      "unit": "tsp",
+      "optional": true
+    },
+    {
+      "name": "olive oil",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "lemon zest",
+      "quantity": 1,
+      "unit": "lemon"
+    },
+    {
+      "name": "lemon juice",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "name": "fresh parsley",
+      "quantity": 1,
+      "unit": "tbsp",
+      "preparation": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous vide water bath to 54°C (129°F) for tender prawns or 57°C (135°F) for a firmer texture.",
+    "If frozen, rinse prawns under cold water to remove excess ice. Pat dry.",
+    "Place prawns in a vacuum-seal bag or zip-lock freezer bag with butter, garlic, salt, black pepper, red pepper flakes (if using), olive oil, and lemon zest. Seal the bag.",
+    "Sous vide the prawns for 40 minutes if frozen or 25 minutes if thawed.",
+    "Heat a skillet over medium-high heat.",
+    "Remove prawns from the bag and pour the contents into the skillet.",
+    "Sear for 30-60 seconds per side to develop some color.",
+    "Add lemon juice and toss to coat.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "portioning": {
+    "servings": 2,
+    "weight_per_serving": 170
+  },
+  "tags": ["sous vide", "seafood", "garlic butter", "lemon", "prawns"],
+  "category": "Seafood",
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 40,
+  "total_time_minutes": 45
+}
