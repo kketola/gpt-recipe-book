@@ -1,0 +1,44 @@
+{
+    "name": "Basmati Rice with Chicken Broth",
+    "tags": ["side dish", "rice", "basmati", "stovetop"],
+    "servings": 6,
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes",
+    "rest_time": "10 minutes",
+    "ingredients": [
+        {
+            "amount": "2 cups",
+            "grams": 370,
+            "ingredient": "basmati rice"
+        },
+        {
+            "amount": "3 cups",
+            "grams": 720,
+            "ingredient": "chicken broth (adjust salt if using salted broth)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "salt (optional, adjust based on broth's saltiness)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 14,
+            "ingredient": "butter or oil (optional, for flavor and texture)"
+        }
+    ],
+    "instructions": [
+        "Rinse the basmati rice under cold water until the water runs clear to remove excess starch.",
+        "For best texture, soak the rice in water for 20–30 minutes, then drain completely.",
+        "In a medium pot, bring the chicken broth to a boil over medium-high heat.",
+        "Add the rinsed and drained rice, salt (if using), and butter or oil.",
+        "Stir once, then reduce the heat to low and cover with a tight-fitting lid.",
+        "Simmer for 12–15 minutes without lifting the lid.",
+        "Turn off the heat and let the rice sit, covered, for 10 minutes to allow the moisture to distribute evenly.",
+        "Fluff the rice gently with a fork before serving."
+    ],
+    "storage_tips": {
+        "refrigeration": "Store cooked rice in an airtight container in the fridge for up to 4 days.",
+        "freezing": "Freeze in portioned airtight containers for up to 2 months. Reheat with a splash of water in the microwave or on the stovetop."
+    }
+}
