@@ -1,29 +1,28 @@
 /* General styles */
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    padding: 0;
-    background-color: #f7f7f7;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5f5f5;
     color: #333;
     text-align: center;
+    padding: 20px;
 }
 
-/* Container */
+/* Centered Container */
 .container {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 20px auto;
     background: white;
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Search Bar */
 #search {
     width: 100%;
-    padding: 10px;
+    padding: 12px;
     font-size: 16px;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     border-radius: 5px;
     margin-bottom: 20px;
 }
@@ -33,21 +32,26 @@ body {
     background: white;
     padding: 15px;
     margin: 10px 0;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
     text-align: left;
+    transition: transform 0.2s ease-in-out;
+}
+
+.recipe-card:hover {
+    transform: scale(1.02);
 }
 
 .recipe-card h2 {
     margin: 0;
-    font-size: 20px;
-    color: #333;
+    font-size: 22px;
+    color: #444;
 }
 
 .recipe-card p {
     margin: 5px 0;
     font-size: 14px;
-    color: #666;
+    color: #777;
 }
 
 .recipe-card a {
@@ -65,18 +69,83 @@ body {
 /* Recipe Details */
 #recipe-details {
     text-align: left;
+    margin-top: 20px;
 }
 
 #recipe-details h1 {
     color: #444;
+    font-size: 26px;
 }
 
 #recipe-details h2 {
     border-bottom: 2px solid #ddd;
     padding-bottom: 5px;
+    margin-top: 20px;
 }
 
 ul, ol {
     text-align: left;
     padding-left: 20px;
 }
+
+/* Fancy Headers */
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #333;
+}
+
+/* Add icons to details */
+.icon {
+    margin-right: 5px;
+    color: #007bff;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #222;
+    color: #ddd;
+}
+
+.dark-mode .container {
+    background-color: #333;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .recipe-card {
+    background: #444;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .recipe-card h2 {
+    color: #eee;
+}
+
+.dark-mode .recipe-card p {
+    color: #ccc;
+}
+
+.dark-mode a {
+    color: #66b3ff;
+}
+
+.dark-mode a:hover {
+    text-decoration: underline;
+}
+
+/* Button Styling */
+#dark-mode-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 8px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.dark-mode #dark-mode-toggle {
+    background: #555;
+    color: #fff;
+}
+

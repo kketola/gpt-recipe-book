@@ -1,6 +1,27 @@
 document.addEventListener("DOMContentLoaded", function () {
     const recipeList = document.getElementById("recipe-list");
     const searchInput = document.getElementById("search");
+    const darkModeToggle = document.getElementById("dark-mode-toggle");
+    const body = document.body;
+
+    // Check saved theme preference
+    if (localStorage.getItem("darkMode") === "enabled") {
+        body.classList.add("dark-mode");
+        darkModeToggle.innerHTML = `<i class="fa-solid fa-sun"></i> Light Mode`;
+    }
+
+    // Toggle dark mode
+    darkModeToggle.addEventListener("click", function () {
+        body.classList.toggle("dark-mode");
+
+        if (body.classList.contains("dark-mode")) {
+            localStorage.setItem("darkMode", "enabled");
+            darkModeToggle.innerHTML = `<i class="fa-solid fa-sun"></i> Light Mode`;
+        } else {
+            localStorage.setItem("darkMode", "disabled");
+            darkModeToggle.innerHTML = `<i class="fa-solid fa-moon"></i> Dark Mode`;
+        }
+    });
 
     fetch(`recipes/index.json?v=${Date.now()}`)
         .then(response => response.json())
@@ -20,14 +41,15 @@ document.addEventListener("DOMContentLoaded", function () {
                         })
                         .forEach(recipe => {
                             let recipeCard = document.createElement("div");
-                            recipeCard.classList.add("recipe-card");
+                            recipeCard.classList.add("recipe-card", "p-3");
+
                             recipeCard.innerHTML = `
-                                <h2>${recipe.name}</h2>
-                                <p><strong>Tags:</strong> ${recipe.tags.join(", ")}</p>
-                                <p><strong>Prep Time:</strong> ${recipe.prep_time}</p>
-                                <p><strong>Cook Time:</strong> ${recipe.cook_time}</p>
-                                <p><strong>Servings:</strong> ${recipe.servings}</p>
-                                <a href="recipe.html?name=${encodeURIComponent(recipe.name)}">View Recipe</a>
+                                <h2><i class="fa-solid fa-utensils icon"></i> ${recipe.name}</h2>
+                                <p><strong><i class="fa-solid fa-tags icon"></i> Tags:</strong> ${recipe.tags.join(", ")}</p>
+                                <p><strong><i class="fa-solid fa-clock icon"></i> Prep Time:</strong> ${recipe.prep_time}</p>
+                                <p><strong><i class="fa-solid fa-fire icon"></i> Cook Time:</strong> ${recipe.cook_time}</p>
+                                <p><strong><i class="fa-solid fa-users icon"></i> Servings:</strong> ${recipe.servings}</p>
+                                <a href="recipe.html?name=${encodeURIComponent(recipe.name)}"><i class="fa-solid fa-book-open icon"></i> View Recipe</a>
                             `;
                             recipeList.appendChild(recipeCard);
                         });
