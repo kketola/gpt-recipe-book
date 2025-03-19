@@ -2,18 +2,22 @@ document.addEventListener("DOMContentLoaded", function () {
     const recipeList = document.getElementById("recipe-list");
     const searchInput = document.getElementById("search");
 
-    fetch("recipes/index.json")
+    fetch(`recipes/index.json?v=${Date.now()}`)
         .then(response => response.json())
         .then(files => {
             const recipePromises = files.map(file =>
-                fetch(`recipes/${file}`).then(response => response.json())
+                fetch(`recipes/${file}?v=${Date.now()}`).then(response => response.json())
             );
 
             Promise.all(recipePromises).then(recipes => {
                 function displayRecipes(filter = "") {
                     recipeList.innerHTML = "";
                     recipes
-                        .filter(recipe => recipe.name.toLowerCase().includes(filter.toLowerCase()))
+                        .filter(recipe => {
+                            const nameMatch = recipe.name.toLowerCase().includes(filter.toLowerCase());
+                            const tagMatch = recipe.tags.some(tag => tag.toLowerCase().includes(filter.toLowerCase()));
+                            return nameMatch || tagMatch;
+                        })
                         .forEach(recipe => {
                             let recipeCard = document.createElement("div");
                             recipeCard.classList.add("recipe-card");
