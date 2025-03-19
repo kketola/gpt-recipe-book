@@ -148,4 +148,59 @@ h1 {
     background: #555;
     color: #fff;
 }
+/* Dark Mode Styles for Recipe Page */
+.dark-mode {
+    background-color: #222;
+    color: #ddd;
+}
+
+.dark-mode .container {
+    background-color: #333;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .btn-primary {
+    background-color: #555;
+    border-color: #666;
+}
+
+.dark-mode .btn-outline-secondary {
+    background-color: #555;
+    color: #fff;
+    border-color: #777;
+}
+
+.dark-mode .btn-outline-secondary:hover {
+    background-color: #666;
+}
+
+/* Recipe Details Styling */
+#recipe-details h1 {
+    font-size: 26px;
+    font-weight: 600;
+    color: #444;
+}
+
+.dark-mode #recipe-details h1 {
+    color: #ddd;
+}
+
+#recipe-details h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+.dark-mode #recipe-details h2 {
+    border-bottom: 2px solid #666;
+}
+
+ul, ol {
+    text-align: left;
+    padding-left: 20px;
+}
+
+ul li, ol li {
+    padding: 5px 0;
+}
 

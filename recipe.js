@@ -1,14 +1,33 @@
 document.addEventListener("DOMContentLoaded", function () {
     const params = new URLSearchParams(window.location.search);
     const recipeName = params.get("name");
+    const darkModeToggle = document.getElementById("dark-mode-toggle");
+    const body = document.body;
 
-    // Ensure Date.now() is properly used inside backticks
-    fetch(`recipes/index.json?v=${Date.now()}`)
+    // Check saved theme preference
+    if (localStorage.getItem("darkMode") === "enabled") {
+        body.classList.add("dark-mode");
+        darkModeToggle.innerHTML = `<i class="fa-solid fa-sun"></i> Light Mode`;
+    }
+
+    // Toggle dark mode
+    darkModeToggle.addEventListener("click", function () {
+        body.classList.toggle("dark-mode");
+
+        if (body.classList.contains("dark-mode")) {
+            localStorage.setItem("darkMode", "enabled");
+            darkModeToggle.innerHTML = `<i class="fa-solid fa-sun"></i> Light Mode`;
+        } else {
+            localStorage.setItem("darkMode", "disabled");
+            darkModeToggle.innerHTML = `<i class="fa-solid fa-moon"></i> Dark Mode`;
+        }
+    });
+
+    fetch("recipes/index.json?v=" + Date.now())
         .then(response => response.json())
         .then(files => {
             const filePromises = files.map(file =>
-                fetch(`recipes/${file}?v=${Date.now()}`)
-                    .then(response => response.json())
+                fetch(`recipes/${file}?v=${Date.now()}`).then(response => response.json())
             );
 
             Promise.all(filePromises).then(recipes => {
@@ -18,22 +37,22 @@ document.addEventListener("DOMContentLoaded", function () {
                     return;
                 }
 
-                let detailsHTML = `<h1>${recipe.name}</h1>`;
+                let detailsHTML = `<h1><i class="fa-solid fa-utensils"></i> ${recipe.name}</h1>`;
 
-                // Display tags (if available)
+                // Display tags
                 if (recipe.tags && recipe.tags.length) {
-                    detailsHTML += `<p><strong>Tags:</strong> ${recipe.tags.join(", ")}</p>`;
+                    detailsHTML += `<p><strong><i class="fa-solid fa-tags"></i> Tags:</strong> ${recipe.tags.join(", ")}</p>`;
                 }
 
                 // Display cooking details
-                detailsHTML += `<p><strong>Servings:</strong> ${recipe.servings}</p>`;
-                if (recipe.prep_time) detailsHTML += `<p><strong>Prep Time:</strong> ${recipe.prep_time}</p>`;
-                if (recipe.cook_time) detailsHTML += `<p><strong>Cook Time:</strong> ${recipe.cook_time}</p>`;
-                if (recipe.chill_time) detailsHTML += `<p><strong>Chill Time:</strong> ${recipe.chill_time}</p>`;
+                detailsHTML += `<p><strong><i class="fa-solid fa-users"></i> Servings:</strong> ${recipe.servings}</p>`;
+                if (recipe.prep_time) detailsHTML += `<p><strong><i class="fa-solid fa-clock"></i> Prep Time:</strong> ${recipe.prep_time}</p>`;
+                if (recipe.cook_time) detailsHTML += `<p><strong><i class="fa-solid fa-fire"></i> Cook Time:</strong> ${recipe.cook_time}</p>`;
+                if (recipe.chill_time) detailsHTML += `<p><strong><i class="fa-solid fa-snowflake"></i> Chill Time:</strong> ${recipe.chill_time}</p>`;
 
                 // Display Ingredients
                 if (recipe.ingredients && Array.isArray(recipe.ingredients)) {
-                    detailsHTML += "<h2>Ingredients</h2><ul>";
+                    detailsHTML += "<h2><i class='fa-solid fa-list'></i> Ingredients</h2><ul>";
                     detailsHTML += recipe.ingredients.map(ing => 
                         `<li>${ing.amount} (${ing.grams}g) - ${ing.ingredient}</li>`
                     ).join("");
@@ -42,22 +61,20 @@ document.addEventListener("DOMContentLoaded", function () {
 
                 // Display Instructions
                 if (recipe.instructions && Array.isArray(recipe.instructions)) {
-                    detailsHTML += "<h2>Instructions</h2><ol>";
+                    detailsHTML += "<h2><i class='fa-solid fa-book'></i> Instructions</h2><ol>";
                     detailsHTML += recipe.instructions.map(step => `<li>${step}</li>`).join("");
                     detailsHTML += "</ol>";
                 }
 
-                // Display Storage Tips (Only if they exist)
+                // Display Storage Tips
                 if (recipe.storage_tips) {
-                    detailsHTML += "<h2>Storage Tips</h2>";
+                    detailsHTML += "<h2><i class='fa-solid fa-box'></i> Storage Tips</h2>";
                     for (const [key, value] of Object.entries(recipe.storage_tips)) {
                         detailsHTML += `<p><strong>${key.replace("_", " ")}:</strong> ${value}</p>`;
                     }
                 }
 
                 document.getElementById("recipe-details").innerHTML = detailsHTML;
-            })
-            .catch(error => console.error("Error loading recipes:", error)); // Catch any errors from Promise.all
-        })
-        .catch(error => console.error("Fetch Error (index.json):", error)); // Catch any errors from fetching index.json
+            });
+        });
 });
