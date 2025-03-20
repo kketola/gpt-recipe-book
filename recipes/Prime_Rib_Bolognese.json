@@ -1,0 +1,113 @@
+{
+    "name": "Prime Rib Bolognese",
+    "tags": ["pasta", "Italian", "sauce", "beef"],
+    "servings": 4,
+    "prep_time": "15 minutes",
+    "cook_time": "1 hour 30 minutes",
+    "ingredients": [
+        {
+            "amount": "2 tbsp",
+            "grams": 28,
+            "ingredient": "olive oil"
+        },
+        {
+            "amount": "1 small",
+            "grams": 75,
+            "ingredient": "onion, finely diced"
+        },
+        {
+            "amount": "1",
+            "grams": 60,
+            "ingredient": "carrot, finely diced"
+        },
+        {
+            "amount": "1",
+            "grams": 50,
+            "ingredient": "celery stalk, finely diced"
+        },
+        {
+            "amount": "3 cloves",
+            "grams": 15,
+            "ingredient": "garlic, minced"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 32,
+            "ingredient": "tomato paste"
+        },
+        {
+            "amount": "1 cup",
+            "grams": 240,
+            "ingredient": "red wine"
+        },
+        {
+            "amount": "1 can (28 oz)",
+            "grams": 800,
+            "ingredient": "San Marzano tomatoes, crushed by hand"
+        },
+        {
+            "amount": "1.5 cups",
+            "grams": 360,
+            "ingredient": "prime rib broth"
+        },
+        {
+            "amount": "2-3 cups",
+            "grams": 400,
+            "ingredient": "shredded prime rib beef"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 1,
+            "ingredient": "dried oregano"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 1,
+            "ingredient": "dried basil"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 1,
+            "ingredient": "red pepper flakes (optional)"
+        },
+        {
+            "amount": "to taste",
+            "grams": 0,
+            "ingredient": "salt and black pepper"
+        },
+        {
+            "amount": "½ cup",
+            "grams": 120,
+            "ingredient": "whole milk or heavy cream (optional)"
+        },
+        {
+            "amount": "for serving",
+            "grams": 50,
+            "ingredient": "Parmesan cheese, grated"
+        },
+        {
+            "amount": "500g",
+            "grams": 500,
+            "ingredient": "fresh fettuccine pasta"
+        }
+    ],
+    "instructions": [
+        "Heat olive oil in a cocotte over medium heat.",
+        "Add onion, carrot, and celery. Sauté until soft, about 5-7 minutes.",
+        "Stir in garlic and tomato paste; cook for 1-2 minutes until fragrant.",
+        "Pour in red wine and let it simmer until mostly evaporated, about 3-4 minutes.",
+        "Add crushed San Marzano tomatoes and prime rib broth.",
+        "Stir in oregano, basil, red pepper flakes, salt, and black pepper.",
+        "Add shredded prime rib beef and stir to combine.",
+        "Reduce heat to low and let the sauce simmer for 60-90 minutes, stirring occasionally.",
+        "If the sauce thickens too much, add a bit more broth or water.",
+        "Stir in milk or cream for a silkier texture, if using. Adjust seasoning to taste.",
+        "Cook fresh fettuccine in salted boiling water for 1-3 minutes.",
+        "Drain pasta, reserving ½ cup of pasta water. Toss pasta with sauce to coat evenly.",
+        "Serve hot, topped with grated Parmesan."
+    ],
+    "storage_tips": {
+        "refrigeration": "Store in an airtight container for up to 4 days.",
+        "freezing": "Freeze sauce in portions for up to 3 months."
+    }
+}
