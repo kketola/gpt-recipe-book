@@ -3,6 +3,7 @@
     "tags": ["dessert", "sweets", "baked goods", "cookies"],
     "servings": 24,
     "prep_time": "15 minutes",
+    "rest_time": "120 minutes",
     "cook_time": "10 minutes",
     "chill_time": "2 hours",
     "ingredients": [
