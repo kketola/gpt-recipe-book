@@ -47,6 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 // Display cooking details
                 detailsHTML += `<p><strong><i class="fa-solid fa-users"></i> Servings:</strong> ${recipe.servings}</p>`;
                 if (recipe.prep_time) detailsHTML += `<p><strong><i class="fa-solid fa-clock"></i> Prep Time:</strong> ${recipe.prep_time}</p>`;
+                if (recipe.rest_time) detailsHTML += `<p><strong><i class="fa-solid fa-clock"></i> Rest Time:</strong> ${recipe.rest_time}</p>`;
                 if (recipe.cook_time) detailsHTML += `<p><strong><i class="fa-solid fa-fire"></i> Cook Time:</strong> ${recipe.cook_time}</p>`;
                 if (recipe.chill_time) detailsHTML += `<p><strong><i class="fa-solid fa-snowflake"></i> Chill Time:</strong> ${recipe.chill_time}</p>`;
 

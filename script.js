@@ -47,6 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
                                 <h2><i class="fa-solid fa-utensils icon"></i> ${recipe.name}</h2>
                                 <p><strong><i class="fa-solid fa-tags icon"></i> Tags:</strong> ${recipe.tags.join(", ")}</p>
                                 <p><strong><i class="fa-solid fa-clock icon"></i> Prep Time:</strong> ${recipe.prep_time}</p>
+                                <p><strong><i class="fa-solid fa-clock icon"></i> Rest Time:</strong> ${recipe.rest_time || "None"}</p>
                                 <p><strong><i class="fa-solid fa-fire icon"></i> Cook Time:</strong> ${recipe.cook_time}</p>
                                 <p><strong><i class="fa-solid fa-users icon"></i> Servings:</strong> ${recipe.servings}</p>
                                 <a href="recipe.html?name=${encodeURIComponent(recipe.name)}"><i class="fa-solid fa-book-open icon"></i> View Recipe</a>
