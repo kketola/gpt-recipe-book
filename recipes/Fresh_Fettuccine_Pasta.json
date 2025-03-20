@@ -1,0 +1,56 @@
+{
+    "name": "Fresh Fettuccine Pasta",
+    "tags": ["pasta", "homemade", "Italian"],
+    "servings": 4,
+    "prep_time": "10 minutes",
+    "rest_time": "30 minutes",
+    "cook_time": "3 minutes",
+    "ingredients": [
+        {
+            "amount": "150g",
+            "grams": 150,
+            "ingredient": "00 flour"
+        },
+        {
+            "amount": "150g",
+            "grams": 150,
+            "ingredient": "semolina flour (fine grind)"
+        },
+        {
+            "amount": "3 large",
+            "grams": 150,
+            "ingredient": "eggs"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 3,
+            "ingredient": "salt"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "olive oil (optional)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "water (only if needed)"
+        }
+    ],
+    "instructions": [
+        "Mix 00 flour and semolina flour together on a clean surface.",
+        "Make a well in the center and add eggs, salt, and olive oil.",
+        "Using a fork, gradually incorporate the flour into the eggs.",
+        "Once it forms a shaggy dough, knead by hand for 8-10 minutes until smooth.",
+        "Wrap dough in plastic wrap and let it rest at room temperature for 30-45 minutes.",
+        "Divide dough into 2-3 pieces and roll each piece into thin sheets (setting 5-6 on a pasta machine).",
+        "Cut into fettuccine using a cutter or by hand (6-7mm wide).",
+        "Dust lightly with semolina to prevent sticking and let rest for 10-15 minutes.",
+        "Bring salted water to a rolling boil. Cook fresh pasta for 1-3 minutes.",
+        "Drain and toss immediately with sauce."
+    ],
+    "storage_tips": {
+        "refrigeration": "Wrap tightly and store in the fridge for up to 2 days.",
+        "freezing": "Freeze in nests on a tray, then transfer to a bag for up to 1 month."
+    }
+}
