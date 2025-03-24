@@ -1,6 +1,10 @@
 {
     "name": "Fresh Fettuccine Pasta",
-    "tags": ["pasta", "homemade", "Italian"],
+    "tags": [
+        "pasta",
+        "homemade",
+        "Italian"
+    ],
     "servings": 4,
     "prep_time": "55 minutes",
     "rest_time": "30 minutes",
@@ -22,7 +26,7 @@
             "ingredient": "eggs"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 3,
             "ingredient": "salt"
         },
@@ -52,5 +56,16 @@
     "storage_tips": {
         "refrigeration": "Wrap tightly and store in the fridge for up to 2 days.",
         "freezing": "Freeze in nests on a tray, then transfer to a bag for up to 1 month."
+    },
+    "equipment": {
+        "required": [
+            "mixing surface",
+            "fork",
+            "rolling pin or pasta machine",
+            "knife or pasta cutter"
+        ],
+        "optional": [
+            "kitchen scale"
+        ]
     }
 }

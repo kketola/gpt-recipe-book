@@ -1,6 +1,11 @@
 {
     "name": "Prime Rib Bolognese",
-    "tags": ["pasta", "Italian", "sauce", "beef"],
+    "tags": [
+        "pasta",
+        "Italian",
+        "sauce",
+        "beef"
+    ],
     "servings": 4,
     "prep_time": "15 minutes",
     "cook_time": "1 hour 30 minutes",
@@ -66,7 +71,7 @@
             "ingredient": "dried basil"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 1,
             "ingredient": "red pepper flakes (optional)"
         },
@@ -76,7 +81,7 @@
             "ingredient": "salt and black pepper"
         },
         {
-            "amount": "½ cup",
+            "amount": "\u00bd cup",
             "grams": 120,
             "ingredient": "whole milk or heavy cream (optional)"
         },
@@ -93,7 +98,7 @@
     ],
     "instructions": [
         "Heat olive oil in a cocotte over medium heat.",
-        "Add onion, carrot, and celery. Sauté until soft, about 5-7 minutes.",
+        "Add onion, carrot, and celery. Saut\u00e9 until soft, about 5-7 minutes.",
         "Stir in garlic and tomato paste; cook for 1-2 minutes until fragrant.",
         "Pour in red wine and let it simmer until mostly evaporated, about 3-4 minutes.",
         "Add crushed San Marzano tomatoes and prime rib broth.",
@@ -103,11 +108,23 @@
         "If the sauce thickens too much, add a bit more broth or water.",
         "Stir in milk or cream for a silkier texture, if using. Adjust seasoning to taste.",
         "Cook fresh fettuccine in salted boiling water for 1-3 minutes.",
-        "Drain pasta, reserving ½ cup of pasta water. Toss pasta with sauce to coat evenly.",
+        "Drain pasta, reserving \u00bd cup of pasta water. Toss pasta with sauce to coat evenly.",
         "Serve hot, topped with grated Parmesan."
     ],
     "storage_tips": {
         "refrigeration": "Store in an airtight container for up to 4 days.",
         "freezing": "Freeze sauce in portions for up to 3 months."
+    },
+    "equipment": {
+        "required": [
+            "cocotte or large pot",
+            "wooden spoon",
+            "stove",
+            "pasta pot",
+            "strainer"
+        ],
+        "optional": [
+            "cheese grater"
+        ]
     }
 }

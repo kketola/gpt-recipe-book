@@ -1,6 +1,11 @@
 {
     "name": "Chewy & Moist Chocolate Chip Cookies",
-    "tags": ["dessert", "sweets", "baked goods", "cookies"],
+    "tags": [
+        "dessert",
+        "sweets",
+        "baked goods",
+        "cookies"
+    ],
     "servings": 24,
     "prep_time": "15 minutes",
     "rest_time": "120 minutes",
@@ -8,7 +13,7 @@
     "chill_time": "2 hours",
     "ingredients": [
         {
-            "amount": "2 ¼ cups",
+            "amount": "2 \u00bc cups",
             "grams": 280,
             "ingredient": "all-purpose flour (Canadian flour preferred; reduce slightly if dough feels too dry)"
         },
@@ -23,12 +28,12 @@
             "ingredient": "baking soda"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 3,
             "ingredient": "salt"
         },
         {
-            "amount": "¾ cup",
+            "amount": "\u00be cup",
             "grams": 170,
             "ingredient": "unsalted butter, melted and slightly cooled"
         },
@@ -38,7 +43,7 @@
             "ingredient": "brown sugar, packed"
         },
         {
-            "amount": "½ cup",
+            "amount": "\u00bd cup",
             "grams": 100,
             "ingredient": "granulated sugar"
         },
@@ -58,7 +63,7 @@
             "ingredient": "vanilla extract"
         },
         {
-            "amount": "1 ¼ cups",
+            "amount": "1 \u00bc cups",
             "grams": 200,
             "ingredient": "semisweet chocolate chips"
         }
@@ -70,8 +75,8 @@
         "Gradually add the dry ingredients, mixing just until combined.",
         "Fold in the chocolate chips.",
         "Cover and refrigerate the dough for at least 2 hours.",
-        "Preheat oven to 350°F (175°C) and line baking sheets with parchment paper.",
-        "Portion dough into 24 balls, each weighing approximately **38–40g**.",
+        "Preheat oven to 350\u00b0F (175\u00b0C) and line baking sheets with parchment paper.",
+        "Portion dough into 24 balls, each weighing approximately **38\u201340g**.",
         "Roll into balls and place 2 inches apart on the prepared baking sheets.",
         "Bake for 10-12 minutes, rotating the pan halfway through.",
         "Let cool on the baking sheet for 5 minutes, then transfer to a wire rack."
@@ -80,5 +85,20 @@
         "room_temp": "Store in an airtight container for up to 5 days with a slice of bread to keep them soft.",
         "freezing_dough": "Freeze pre-scooped dough, bake from frozen.",
         "freezing_cookies": "Freeze baked cookies for up to 3 months."
+    },
+    "equipment": {
+        "required": [
+            "oven",
+            "mixing bowl",
+            "whisk",
+            "baking sheet",
+            "parchment paper",
+            "cooling rack",
+            "kitchen scale (optional but recommended)"
+        ],
+        "optional": [
+            "cookie scoop",
+            "stand mixer"
+        ]
     }
 }

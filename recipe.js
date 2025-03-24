@@ -50,6 +50,21 @@ document.addEventListener("DOMContentLoaded", function () {
                 if (recipe.rest_time) detailsHTML += `<p><strong><i class="fa-solid fa-clock"></i> Rest Time:</strong> ${recipe.rest_time}</p>`;
                 if (recipe.cook_time) detailsHTML += `<p><strong><i class="fa-solid fa-fire"></i> Cook Time:</strong> ${recipe.cook_time}</p>`;
                 if (recipe.chill_time) detailsHTML += `<p><strong><i class="fa-solid fa-snowflake"></i> Chill Time:</strong> ${recipe.chill_time}</p>`;
+				
+				// Display Equipment
+				if (recipe.equipment) {
+					detailsHTML += "<h2><i class='fa-solid fa-toolbox'></i> Equipment</h2>";
+					if (recipe.equipment.required && recipe.equipment.required.length > 0) {
+						detailsHTML += "<h4>Required</h4><ul>";
+						detailsHTML += recipe.equipment.required.map(item => `<li>${item}</li>`).join("");
+						detailsHTML += "</ul>";
+					}
+					if (recipe.equipment.optional && recipe.equipment.optional.length > 0) {
+						detailsHTML += "<h4>Optional</h4><ul>";
+						detailsHTML += recipe.equipment.optional.map(item => `<li>${item}</li>`).join("");
+						detailsHTML += "</ul>";
+					}
+				}
 
                 // Display Ingredients
                 if (recipe.ingredients && Array.isArray(recipe.ingredients)) {

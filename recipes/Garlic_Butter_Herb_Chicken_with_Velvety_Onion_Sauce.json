@@ -1,6 +1,13 @@
 {
     "name": "Garlic Butter Herb Chicken with Velvety Onion Sauce",
-    "tags": ["chicken", "garlic butter", "herb chicken", "onion sauce", "comfort food", "easy dinner"],
+    "tags": [
+        "chicken",
+        "garlic butter",
+        "herb chicken",
+        "onion sauce",
+        "comfort food",
+        "easy dinner"
+    ],
     "servings": 4,
     "prep_time": "15 minutes",
     "cook_time": "30 minutes",
@@ -16,7 +23,7 @@
             "ingredient": "neutral oil (avocado, grapeseed, or canola)"
         },
         {
-            "amount": "1 ½ tsp",
+            "amount": "1 \u00bd tsp",
             "grams": 9,
             "ingredient": "kosher salt"
         },
@@ -26,22 +33,22 @@
             "ingredient": "black pepper"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 1,
             "ingredient": "paprika"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 0.5,
             "ingredient": "dried thyme"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 0.5,
             "ingredient": "dried oregano"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 0.5,
             "ingredient": "dried parsley"
         },
@@ -56,12 +63,12 @@
             "ingredient": "garlic, minced"
         },
         {
-            "amount": "½ medium",
+            "amount": "\u00bd medium",
             "grams": 100,
             "ingredient": "red or yellow onion, thinly sliced"
         },
         {
-            "amount": "juice of ½",
+            "amount": "juice of \u00bd",
             "grams": 25,
             "ingredient": "lemon"
         },
@@ -71,7 +78,7 @@
             "ingredient": "lemon"
         },
         {
-            "amount": "½ cup",
+            "amount": "\u00bd cup",
             "grams": 120,
             "ingredient": "low-sodium chicken broth or water"
         },
@@ -101,7 +108,7 @@
         "Dot the butter pieces around and on top of the chicken.",
         "Sprinkle minced garlic, lemon zest, and lemon juice over everything.",
         "Pour chicken broth into the dish for moisture.",
-        "Bake at 375°F (190°C) for 20 minutes, basting with pan juices at the 10-minute mark.",
+        "Bake at 375\u00b0F (190\u00b0C) for 20 minutes, basting with pan juices at the 10-minute mark.",
         "Once baked, remove the chicken from the baking dish and set it aside on serving plates.",
         "Pour all the onions and pan juices into a saucepan over medium heat.",
         "In the now-empty baking dish, melt 1 tbsp butter and whisk in 1 tbsp flour to form a roux.",
@@ -114,5 +121,16 @@
         "If using a cold smoker, smoke the chicken for 15-20 minutes with mild wood before seasoning and searing.",
         "For extra richness, replace water with chicken broth or white wine.",
         "Pairs well with mashed potatoes, rice, or crusty bread."
-    ]
+    ],
+    "equipment": {
+        "required": [
+            "skillet",
+            "baking dish",
+            "saucepan",
+            "whisk"
+        ],
+        "optional": [
+            "meat thermometer"
+        ]
+    }
 }

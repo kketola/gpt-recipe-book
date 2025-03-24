@@ -1,6 +1,12 @@
 {
     "name": "Garlic Butter Lemon Sous Vide Prawns",
-    "tags": ["sous vide", "seafood", "garlic butter", "lemon", "prawns"],
+    "tags": [
+        "sous vide",
+        "seafood",
+        "garlic butter",
+        "lemon",
+        "prawns"
+    ],
     "servings": 2,
     "prep_time": "5 minutes",
     "cook_time": "40 minutes",
@@ -21,17 +27,17 @@
             "ingredient": "garlic, minced"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 3,
             "ingredient": "salt"
         },
         {
-            "amount": "¼ tsp",
+            "amount": "\u00bc tsp",
             "grams": 1,
             "ingredient": "black pepper, freshly ground"
         },
         {
-            "amount": "½ tsp",
+            "amount": "\u00bd tsp",
             "grams": 1,
             "ingredient": "red pepper flakes (optional)"
         },
@@ -57,7 +63,7 @@
         }
     ],
     "instructions": [
-        "Preheat a sous vide water bath to 54°C (129°F) for tender prawns or 57°C (135°F) for a firmer texture.",
+        "Preheat a sous vide water bath to 54\u00b0C (129\u00b0F) for tender prawns or 57\u00b0C (135\u00b0F) for a firmer texture.",
         "If frozen, rinse prawns under cold water to remove excess ice. Pat dry.",
         "Place prawns in a vacuum-seal bag or zip-lock freezer bag with butter, garlic, salt, black pepper, red pepper flakes (if using), olive oil, and lemon zest. Seal the bag using vacuum sealing or the water displacement method.",
         "Sous vide the prawns for 40 minutes if frozen or 25 minutes if thawed.",
@@ -70,5 +76,15 @@
     "storage_tips": {
         "refrigeration": "Store cooked prawns in an airtight container in the fridge for up to 2 days.",
         "freezing": "Freeze raw prawns in a sealed bag for up to 3 months. Do not refreeze after sous vide cooking."
+    },
+    "equipment": {
+        "required": [
+            "sous vide machine",
+            "vacuum sealer or freezer bag",
+            "skillet"
+        ],
+        "optional": [
+            "zester"
+        ]
     }
 }
