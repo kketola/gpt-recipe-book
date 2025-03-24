@@ -1,38 +1,83 @@
 {
   "name": "Salted Caramel Ice Cream",
-  "equipment": [
-    { "name": "Ninja Creami", "required": true },
-    { "name": "Freezer", "required": true },
-    { "name": "Microwave or Stovetop", "required": false },
-    { "name": "Measuring cup", "required": true },
-    { "name": "Kitchen scale", "required": true },
-    { "name": "Spoon or spatula", "required": true }
+  "tags": [
+    "dessert",
+    "ice cream",
+    "ninja creami",
+    "frozen treats"
   ],
-  "ingredients": [
-    { "name": "Heavy cream", "amount_g": 240 },
-    { "name": "Whole milk", "amount_g": 240 },
-    { "name": "White sugar", "amount_g": 50 },
-    { "name": "Corn syrup or glucose syrup", "amount_g": 80 },
-    { "name": "Vanilla extract", "amount_tsp": 1 },
-    { "name": "Fine sea salt", "amount_tsp": 0.25 },
-    { "name": "Optional alcohol (bourbon or vodka)", "amount_g": 15 },
-    { "name": "Salted caramel sauce (see separate recipe)", "amount_g": 100 }
-  ],
+  "servings": 4,
+  "prep_time": "15 minutes",
   "rest_time": "24 hours",
-  "instructions": [
-    "In a saucepan or microwave-safe bowl, combine cream, milk, sugar, and corn syrup. Gently warm and stir until sugar is dissolved. Do not boil.",
-    "Stir in vanilla extract, salt, and optional alcohol.",
-    "Cool to room temperature, then pour into Ninja Creami pint container. Freeze for at least 24 hours until solid.",
-    "After freezing, remove from freezer and let sit at room temperature for 10 minutes.",
-    "Spin once using the Lite Ice Cream or Gelato setting.",
-    "If crumbly, add 1–2 tbsp of whole milk and re-spin.",
-    "Make a well in the center of the pint and add the caramel sauce. Run the Mix-In cycle to swirl it in.",
-    "If the ice cream is too soft or soupy after the Mix-In, return it to the freezer for 30–60 minutes to firm up to scoopable texture."
+  "chill_time": "0 minutes",
+  "cook_time": "5 minutes",
+  "ingredients": [
+    {
+      "amount": "1 cup",
+      "grams": 240,
+      "ingredient": "heavy cream (at least 33%)"
+    },
+    {
+      "amount": "1 cup",
+      "grams": 240,
+      "ingredient": "whole milk"
+    },
+    {
+      "amount": "¼ cup",
+      "grams": 50,
+      "ingredient": "white sugar"
+    },
+    {
+      "amount": "¼ cup",
+      "grams": 80,
+      "ingredient": "corn syrup or glucose syrup"
+    },
+    {
+      "amount": "1 tsp",
+      "grams": 5,
+      "ingredient": "vanilla extract"
+    },
+    {
+      "amount": "¼ tsp",
+      "grams": 1.5,
+      "ingredient": "fine sea salt"
+    },
+    {
+      "amount": "1 tbsp",
+      "grams": 15,
+      "ingredient": "bourbon or vodka (optional, for softness)"
+    },
+    {
+      "amount": "about 5 tbsp",
+      "grams": 100,
+      "ingredient": "salted caramel sauce (see separate recipe)"
+    }
   ],
-  "tips": [
-    "Use room temperature caramel sauce to avoid melting the ice cream too much during the Mix-In.",
-    "If you prefer chewy caramel chunks, refrigerate the sauce and use it cold for the Mix-In.",
-    "Avoid over-spinning—repeated spins can make the ice cream too soft.",
-    "A shallow container helps leftovers firm up evenly without getting rock hard."
-  ]
+  "instructions": [
+    "In a saucepan or microwave-safe bowl, combine cream, milk, sugar, and corn syrup. Gently heat and stir until the sugar dissolves. Do not boil.",
+    "Stir in vanilla extract, salt, and optional alcohol.",
+    "Cool to room temperature, then pour into a Ninja Creami pint container. Freeze for at least 24 hours until solid.",
+    "After freezing, let the pint sit at room temperature for 10 minutes.",
+    "Run the Lite Ice Cream or Gelato cycle.",
+    "If crumbly, add 1–2 tablespoons of whole milk and run the Re-spin cycle.",
+    "Make a well in the center and add the caramel sauce. Run the Mix-In cycle.",
+    "If the ice cream is too soft after the Mix-In, return it to the freezer for 30–60 minutes before serving."
+  ],
+  "storage_tips": {
+    "freezing_cup": "Store leftover ice cream in the Creami pint container or transfer to a shallow airtight container for easier scooping.",
+    "softening": "Let sit at room temperature for 5–10 minutes before re-spinning if storing long-term."
+  },
+  "equipment": {
+    "required": [
+      "Ninja Creami",
+      "freezer",
+      "kitchen scale",
+      "measuring cups and spoons",
+      "spoon or spatula"
+    ],
+    "optional": [
+      "microwave or stovetop",
+      "blender (for ultra-smooth base)"
+    ]
+  }
 }

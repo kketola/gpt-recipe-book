@@ -1,37 +1,68 @@
 {
   "name": "Salted Caramel Sauce",
-  "equipment": [
-    { "name": "Saucepan", "required": true },
-    { "name": "Whisk", "required": true },
-    { "name": "Heat-resistant spatula or spoon", "required": true },
-    { "name": "Glass jar or container", "required": true },
-    { "name": "Kitchen scale", "required": true },
-    { "name": "Measuring spoons", "required": true },
-    { "name": "Microwave or stovetop", "required": false }
+  "tags": [
+    "sauce",
+    "dessert",
+    "caramel",
+    "ice cream topping"
   ],
+  "servings": 10,
+  "prep_time": "5 minutes",
+  "rest_time": "10 minutes",
+  "chill_time": "0 minutes",
+  "cook_time": "10 minutes",
   "ingredients": [
-    { "name": "White granulated sugar", "amount_g": 200 },
-    { "name": "Unsalted butter (room temperature)", "amount_g": 90 },
-    { "name": "Heavy cream (warmed)", "amount_g": 120 },
-    { "name": "Fine sea salt", "amount_tsp": 1 },
-    { "name": "Vanilla extract (optional)", "amount_tsp": 0.5 }
+    {
+      "amount": "1 cup",
+      "grams": 200,
+      "ingredient": "white granulated sugar"
+    },
+    {
+      "amount": "6 tbsp",
+      "grams": 90,
+      "ingredient": "unsalted butter, room temperature"
+    },
+    {
+      "amount": "½ cup",
+      "grams": 120,
+      "ingredient": "heavy cream, gently warmed"
+    },
+    {
+      "amount": "1 tsp",
+      "grams": 6,
+      "ingredient": "fine sea salt"
+    },
+    {
+      "amount": "½ tsp",
+      "grams": 2,
+      "ingredient": "vanilla extract (optional)"
+    }
   ],
-  "rest_time": "10 minutes (cool before using)",
   "instructions": [
     "Cut butter into cubes and let sit at room temperature for 20–30 minutes.",
-    "Warm heavy cream slightly in microwave or stovetop until just warm to the touch—not hot.",
-    "Add sugar to a clean, dry, light-colored saucepan. Heat over medium without stirring until it begins to melt around the edges.",
-    "Swirl the pan gently as more sugar melts. Do not stir with a spoon. Continue until fully melted and medium amber in color.",
-    "Immediately remove from heat and add butter in batches, whisking constantly until fully incorporated.",
-    "Slowly pour in warm cream while whisking. Mixture will bubble vigorously. Continue whisking until smooth.",
-    "If lumps form, return to low heat and whisk gently until smooth.",
-    "Stir in salt and optional vanilla extract. Let cool 10–15 minutes before transferring to a jar."
+    "Warm heavy cream gently until just warm to the touch (not hot).",
+    "Add sugar to a clean, dry saucepan. Heat over medium heat without stirring.",
+    "Once sugar starts melting at the edges, gently swirl the pan. Continue swirling until fully melted and golden amber in color.",
+    "Remove from heat and carefully add butter in small batches, whisking constantly.",
+    "Slowly pour in the warmed cream, whisking the whole time. It will bubble up.",
+    "If the caramel seizes or becomes lumpy, return to low heat and whisk until smooth.",
+    "Stir in sea salt and optional vanilla extract. Let cool 10–15 minutes before using."
   ],
-  "tips": [
-    "Always prep ingredients in advance—caramel moves quickly.",
-    "Avoid stirring sugar before it melts. Only swirl the pan to prevent crystallization.",
-    "Make sure butter is room temperature and cream is warmed to avoid shocking the caramel.",
-    "Store in a jar in the fridge for up to 2 weeks. Microwave briefly before using if too thick.",
-    "Use room temp for smooth ribbon swirls or chilled for chewier mix-in bites."
-  ]
+  "storage_tips": {
+    "room_temp": "Cool completely before transferring to a jar. Use at room temperature for ice cream mix-ins.",
+    "refrigeration": "Store in the refrigerator for up to 2 weeks. Reheat gently if too firm before use."
+  },
+  "equipment": {
+    "required": [
+      "saucepan",
+      "whisk",
+      "spatula or spoon",
+      "glass jar or container",
+      "kitchen scale"
+    ],
+    "optional": [
+      "measuring spoons",
+      "microwave (for warming cream)"
+    ]
+  }
 }
