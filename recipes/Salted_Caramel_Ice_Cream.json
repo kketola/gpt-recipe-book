@@ -1,0 +1,38 @@
+{
+  "name": "Salted Caramel Ice Cream",
+  "equipment": [
+    { "name": "Ninja Creami", "required": true },
+    { "name": "Freezer", "required": true },
+    { "name": "Microwave or Stovetop", "required": false },
+    { "name": "Measuring cup", "required": true },
+    { "name": "Kitchen scale", "required": true },
+    { "name": "Spoon or spatula", "required": true }
+  ],
+  "ingredients": [
+    { "name": "Heavy cream", "amount_g": 240 },
+    { "name": "Whole milk", "amount_g": 240 },
+    { "name": "White sugar", "amount_g": 50 },
+    { "name": "Corn syrup or glucose syrup", "amount_g": 80 },
+    { "name": "Vanilla extract", "amount_tsp": 1 },
+    { "name": "Fine sea salt", "amount_tsp": 0.25 },
+    { "name": "Optional alcohol (bourbon or vodka)", "amount_g": 15 },
+    { "name": "Salted caramel sauce (see separate recipe)", "amount_g": 100 }
+  ],
+  "rest_time": "24 hours",
+  "instructions": [
+    "In a saucepan or microwave-safe bowl, combine cream, milk, sugar, and corn syrup. Gently warm and stir until sugar is dissolved. Do not boil.",
+    "Stir in vanilla extract, salt, and optional alcohol.",
+    "Cool to room temperature, then pour into Ninja Creami pint container. Freeze for at least 24 hours until solid.",
+    "After freezing, remove from freezer and let sit at room temperature for 10 minutes.",
+    "Spin once using the Lite Ice Cream or Gelato setting.",
+    "If crumbly, add 1–2 tbsp of whole milk and re-spin.",
+    "Make a well in the center of the pint and add the caramel sauce. Run the Mix-In cycle to swirl it in.",
+    "If the ice cream is too soft or soupy after the Mix-In, return it to the freezer for 30–60 minutes to firm up to scoopable texture."
+  ],
+  "tips": [
+    "Use room temperature caramel sauce to avoid melting the ice cream too much during the Mix-In.",
+    "If you prefer chewy caramel chunks, refrigerate the sauce and use it cold for the Mix-In.",
+    "Avoid over-spinning—repeated spins can make the ice cream too soft.",
+    "A shallow container helps leftovers firm up evenly without getting rock hard."
+  ]
+}
