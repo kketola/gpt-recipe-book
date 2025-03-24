@@ -1,0 +1,71 @@
+{
+    "name": "Neapolitan Pizza Dough",
+    "tags": [
+        "pizza",
+        "neapolitan",
+        "italian",
+        "dough",
+        "same-day",
+        "baking"
+    ],
+    "servings": 2,
+    "prep_time": "15 minutes",
+    "rest_time": "11 hours",
+    "cook_time": "90 seconds",
+    "chill_time": "none",
+    "ingredients": [
+        {
+            "amount": "2 ⅝ cups",
+            "grams": 328,
+            "ingredient": "00 flour (Robin Hood brand preferred)"
+        },
+        {
+            "amount": "¾ cup + 2 tsp",
+            "grams": 203,
+            "ingredient": "water, room temperature"
+        },
+        {
+            "amount": "1 ⅔ tsp",
+            "grams": 8.2,
+            "ingredient": "fine sea salt"
+        },
+        {
+            "amount": "heaping 1/8 tsp",
+            "grams": 0.5,
+            "ingredient": "instant yeast"
+        }
+    ],
+    "instructions": [
+        "Optional: Mix only the flour and water together and let rest for 20–30 minutes (autolyse). This helps gluten development and dough extensibility.",
+        "Dissolve salt into the water, then add the yeast to the flour.",
+        "Combine wet and dry ingredients. Mix until a rough dough forms.",
+        "Knead for 10–12 minutes by hand (or ~8 minutes in a stand mixer) until smooth and elastic.",
+        "Place dough in a covered container at room temperature for 6 hours (bulk fermentation).",
+        "After bulk fermentation, divide the dough into two 270g balls.",
+        "Place dough balls into lightly floured or oiled containers and cover.",
+        "Let the dough balls rest for 4–5 hours at room temperature before baking.",
+        "Preheat your Ooni Koda 16 for at least 30 minutes at its highest setting (450–480°C).",
+        "Stretch each dough ball gently, top as desired, and bake for 60–90 seconds until charred and bubbly."
+    ],
+    "storage_tips": {
+        "room_temp": "Use within 12 hours. Dough balls can be held for up to 6 hours after shaping.",
+        "refrigeration": "For longer fermentation (18–24h), reduce yeast to 0.15% (0.25g) and refrigerate dough after kneading. Bring to room temp 3 hours before baking.",
+        "freezing_dough": "Freeze dough balls after shaping. Defrost overnight in fridge, then bring to room temp for 3 hours before use."
+    },
+    "equipment": {
+        "required": [
+            "mixing bowl",
+            "kitchen scale",
+            "measuring spoons",
+            "container with lid",
+            "oven or pizza oven (Ooni Koda 16)",
+            "pizza peel"
+        ],
+        "optional": [
+            "stand mixer",
+            "bench scraper",
+            "proofing containers",
+            "infrared thermometer"
+        ]
+    }
+}
