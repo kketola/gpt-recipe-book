@@ -123,10 +123,9 @@
         "Top with toasted sesame seeds and chopped peanuts before serving."
     ],
     "storage_tips": {
-        "room_temp": "Not recommended. Store leftovers in the refrigerator.",
-        "freezing_dough": "Not applicable.",
-        "freezing_cookies": "Freeze portions in airtight containers for up to 1 month. Reheat in a skillet or microwave."
-    },
+        "refrigerator": "Store in an airtight container in the fridge for up to 4 days. Reheat thoroughly before serving.",
+        "freezer": "Freeze in individual portions for up to 1 month. Reheat from frozen in a skillet or microwave until piping hot."
+    }
     "equipment": {
         "required": [
             "large skillet or wok",
