@@ -1,0 +1,143 @@
+{
+    "name": "Pork Fried Rice",
+    "tags": [
+        "main dish",
+        "rice",
+        "leftovers",
+        "savory",
+        "one pan"
+    ],
+    "servings": 4,
+    "prep_time": "15 minutes",
+    "rest_time": "0 minutes",
+    "cook_time": "15 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "3 cups",
+            "grams": 600,
+            "ingredient": "cold cooked rice (day-old preferred)"
+        },
+        {
+            "amount": "1½ cups",
+            "grams": 225,
+            "ingredient": "cooked pork, chopped or shredded"
+        },
+        {
+            "amount": "2",
+            "grams": 100,
+            "ingredient": "large eggs, beaten"
+        },
+        {
+            "amount": "1",
+            "grams": 110,
+            "ingredient": "yellow onion, diced"
+        },
+        {
+            "amount": "2",
+            "grams": 60,
+            "ingredient": "shallots, thinly sliced"
+        },
+        {
+            "amount": "2",
+            "grams": 120,
+            "ingredient": "carrots, finely diced"
+        },
+        {
+            "amount": "1",
+            "grams": 120,
+            "ingredient": "bell pepper, diced"
+        },
+        {
+            "amount": "2 cloves",
+            "grams": 6,
+            "ingredient": "garlic, minced"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "fresh ginger, grated"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 30,
+            "ingredient": "soy sauce"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 20,
+            "ingredient": "oyster sauce"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 7,
+            "ingredient": "hoisin sauce"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "Worcestershire sauce"
+        },
+        {
+            "amount": "1–2 tsp",
+            "grams": 6,
+            "ingredient": "sriracha (adjust to taste)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 30,
+            "ingredient": "neutral oil (canola or avocado)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 4,
+            "ingredient": "sesame oil (optional, for finishing)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 4,
+            "ingredient": "chopped cilantro, for garnish"
+        },
+        {
+            "amount": "2 tsp",
+            "grams": 6,
+            "ingredient": "toasted sesame seeds (optional garnish)"
+        },
+        {
+            "amount": "3 tbsp",
+            "grams": 30,
+            "ingredient": "chopped peanuts (optional garnish)"
+        }
+    ],
+    "instructions": [
+        "Prepare all ingredients: chop vegetables, measure sauces, and beat the eggs.",
+        "In a small bowl, mix the soy sauce, oyster sauce, hoisin sauce, Worcestershire sauce, and sriracha. Set aside.",
+        "Heat 1 tbsp of oil in a large skillet or wok over medium-high heat. Add the beaten eggs and scramble until just set. Remove from the pan and set aside.",
+        "Add another tablespoon of oil to the pan. Sauté the yellow onion, carrots, and bell pepper for 3–4 minutes until beginning to soften.",
+        "Add the shallots, garlic, and ginger. Stir-fry for about 1 minute until fragrant.",
+        "Add the cooked pork and stir-fry for 2–3 minutes until heated through.",
+        "Add the rice, breaking up any clumps, and stir everything together. Let the rice sit undisturbed for 1–2 minutes to get some crispy bits.",
+        "Pour in the sauce mixture and stir until the rice and pork are evenly coated.",
+        "Fold the scrambled eggs back in and mix well.",
+        "Remove from heat and stir in chopped cilantro. Drizzle with sesame oil if using.",
+        "Top with toasted sesame seeds and chopped peanuts before serving."
+    ],
+    "storage_tips": {
+        "room_temp": "Not recommended. Store leftovers in the refrigerator.",
+        "freezing_dough": "Not applicable.",
+        "freezing_cookies": "Freeze portions in airtight containers for up to 1 month. Reheat in a skillet or microwave."
+    },
+    "equipment": {
+        "required": [
+            "large skillet or wok",
+            "mixing bowl",
+            "spatula or wooden spoon",
+            "knife",
+            "cutting board"
+        ],
+        "optional": [
+            "grater (for ginger)",
+            "kitchen scale"
+        ]
+    }
+}
