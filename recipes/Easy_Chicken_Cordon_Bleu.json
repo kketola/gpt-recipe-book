@@ -1,0 +1,101 @@
+{
+    "name": "Easy Chicken Cordon Bleu",
+    "tags": [
+        "chicken",
+        "main dish",
+        "comfort food",
+        "baked"
+    ],
+    "servings": 4,
+    "prep_time": "20 minutes",
+    "rest_time": "5 minutes",
+    "cook_time": "30 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "4",
+            "grams": 920,
+            "ingredient": "boneless, skinless chicken breasts"
+        },
+        {
+            "amount": "8 slices",
+            "grams": 120,
+            "ingredient": "Black Forest ham"
+        },
+        {
+            "amount": "120 g",
+            "grams": 120,
+            "ingredient": "fresh mozzarella, sliced"
+        },
+        {
+            "amount": "2 tsp",
+            "grams": 10,
+            "ingredient": "Dijon mustard (for brushing on chicken)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 3,
+            "ingredient": "garlic powder"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 2,
+            "ingredient": "onion powder"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 1,
+            "ingredient": "smoked paprika"
+        },
+        {
+            "amount": "to taste",
+            "grams": 3,
+            "ingredient": "salt"
+        },
+        {
+            "amount": "to taste",
+            "grams": 1,
+            "ingredient": "black pepper"
+        },
+        {
+            "amount": "1 cup",
+            "grams": 50,
+            "ingredient": "panko breadcrumbs"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 28,
+            "ingredient": "olive oil or melted butter"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+        "Butterfly each chicken breast and open it like a book.",
+        "Brush the inside with Dijon mustard, then season with salt, pepper, garlic powder, onion powder, and smoked paprika.",
+        "Layer 2 slices of ham and a slice of fresh mozzarella inside each breast.",
+        "Fold closed and secure with toothpicks or kitchen twine.",
+        "Brush the outside of the chicken with olive oil or melted butter.",
+        "Coat each chicken breast in panko breadcrumbs.",
+        "Place on prepared baking sheet and bake for 25–30 minutes, until the internal temperature reaches 165°F (74°C).",
+        "Let rest for 5 minutes before serving. Remove toothpicks or twine before plating."
+    ],
+    "storage_tips": {
+        "room_temp": "Not recommended for storage at room temperature.",
+        "freezing_dough": "Not applicable.",
+        "freezing_cookies": "Wrap cooked chicken tightly and freeze for up to 2 months. Reheat in the oven at 350°F (175°C) until warmed through."
+    },
+    "equipment": {
+        "required": [
+            "oven",
+            "mixing bowl",
+            "baking sheet",
+            "parchment paper",
+            "toothpicks or kitchen twine",
+            "meat thermometer"
+        ],
+        "optional": [
+            "kitchen brush for mustard or oil",
+            "meat mallet (if flattening thicker breasts)"
+        ]
+    }
+}
