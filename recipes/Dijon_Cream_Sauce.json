@@ -1,0 +1,70 @@
+{
+    "name": "Dijon Cream Sauce",
+    "tags": [
+        "sauce",
+        "dinner",
+        "chicken",
+        "condiment"
+    ],
+    "servings": 4,
+    "prep_time": "2 minutes",
+    "rest_time": "0 minutes",
+    "cook_time": "8 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "1 tbsp",
+            "grams": 14,
+            "ingredient": "unsalted butter"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 8,
+            "ingredient": "all-purpose flour"
+        },
+        {
+            "amount": "1 cup",
+            "grams": 240,
+            "ingredient": "milk or half-and-half"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "Dijon mustard"
+        },
+        {
+            "amount": "to taste",
+            "grams": 2,
+            "ingredient": "salt"
+        },
+        {
+            "amount": "to taste",
+            "grams": 1,
+            "ingredient": "black pepper"
+        }
+    ],
+    "instructions": [
+        "In a small saucepan over medium heat, melt the butter.",
+        "Whisk in the flour and cook for 1 minute, stirring constantly to form a roux.",
+        "Slowly whisk in the milk or half-and-half to avoid lumps.",
+        "Cook, stirring constantly, until the sauce thickens and coats the back of a spoon, about 5–6 minutes.",
+        "Stir in the Dijon mustard, then season with salt and pepper to taste.",
+        "Serve warm over Chicken Cordon Bleu or other proteins."
+    ],
+    "storage_tips": {
+        "refrigeration": "Store cooled sauce in an airtight container in the refrigerator for up to 3 days. Reheat gently on the stovetop, whisking to restore texture.",
+        "freezing": "Not recommended—sauce may separate when thawed.",
+        "make_ahead": "Sauce can be made earlier the same day and reheated just before serving."
+    },
+    "equipment": {
+        "required": [
+            "small saucepan",
+            "whisk",
+            "measuring spoons",
+            "measuring cup"
+        ],
+        "optional": [
+            "rubber spatula"
+        ]
+    }
+}
