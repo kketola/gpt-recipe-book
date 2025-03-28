@@ -80,10 +80,10 @@
         "Let rest for 5 minutes before serving. Remove toothpicks or twine before plating."
     ],
     "storage_tips": {
-        "room_temp": "Not recommended for storage at room temperature.",
-        "freezing_dough": "Not applicable.",
-        "freezing_cookies": "Wrap cooked chicken tightly and freeze for up to 2 months. Reheat in the oven at 350°F (175°C) until warmed through."
-    },
+        "refrigeration": "Store cooked chicken in an airtight container in the fridge for up to 4 days. Reheat in a 350°F (175°C) oven until warmed through to maintain crispiness.",
+        "freezing": "Wrap each cooked chicken breast tightly in foil or plastic wrap, then place in a freezer-safe container or bag. Freeze for up to 2 months. Reheat from frozen in a 350°F (175°C) oven for 30–35 minutes or until hot and crisp.",
+        "make_ahead": "You can assemble the chicken (stuffed and breaded) up to 1 day in advance. Store covered in the fridge and bake when ready."
+    }
     "equipment": {
         "required": [
             "oven",
