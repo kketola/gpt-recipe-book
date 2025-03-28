@@ -1,0 +1,78 @@
+{
+    "name": "Cucumber & Tomato Salad",
+    "tags": [
+        "salad",
+        "vegetable",
+        "fresh",
+        "single serving"
+    ],
+    "servings": 1,
+    "prep_time": "5 minutes",
+    "rest_time": "0 minutes",
+    "cook_time": "0 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "¼",
+            "grams": 60,
+            "ingredient": "English cucumber, thinly sliced"
+        },
+        {
+            "amount": "4–5",
+            "grams": 60,
+            "ingredient": "cherry tomatoes, halved (or ½ regular tomato, chopped)"
+        },
+        {
+            "amount": "a few slices",
+            "grams": 10,
+            "ingredient": "red onion, thinly sliced (optional)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "olive oil"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "red wine vinegar"
+        },
+        {
+            "amount": "to taste",
+            "grams": 1,
+            "ingredient": "salt"
+        },
+        {
+            "amount": "to taste",
+            "grams": 0.5,
+            "ingredient": "black pepper"
+        },
+        {
+            "amount": "a pinch",
+            "grams": 0.2,
+            "ingredient": "dried oregano"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, combine the sliced cucumber, cherry tomatoes, and red onion if using.",
+        "Drizzle with olive oil and red wine vinegar.",
+        "Season with salt, pepper, and a pinch of oregano.",
+        "Toss gently to combine and serve immediately."
+    ],
+    "storage_tips": {
+        "refrigeration": "Best served fresh. If needed, store undressed components for up to 1 day and dress just before serving.",
+        "freezing": "Not recommended.",
+        "make_ahead": "Can prepare vegetables a few hours in advance and keep separate from dressing to avoid sogginess."
+    },
+    "equipment": {
+        "required": [
+            "knife",
+            "cutting board",
+            "mixing bowl",
+            "measuring spoons"
+        ],
+        "optional": [
+            "salad tongs or spoon for tossing"
+        ]
+    }
+}
