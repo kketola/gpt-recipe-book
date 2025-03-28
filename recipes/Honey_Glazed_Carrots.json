@@ -1,0 +1,63 @@
+{
+    "name": "Honey-Glazed Carrots",
+    "tags": [
+        "side dish",
+        "vegetable",
+        "carrots",
+        "stovetop"
+    ],
+    "servings": 4,
+    "prep_time": "5 minutes",
+    "rest_time": "0 minutes",
+    "cook_time": "12 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "4 medium",
+            "grams": 375,
+            "ingredient": "carrots, peeled and sliced on a diagonal"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 14,
+            "ingredient": "unsalted butter"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 21,
+            "ingredient": "honey"
+        },
+        {
+            "amount": "1–2 tbsp",
+            "grams": 15,
+            "ingredient": "water (splash to help steam)"
+        },
+        {
+            "amount": "pinch",
+            "grams": 1,
+            "ingredient": "salt"
+        }
+    ],
+    "instructions": [
+        "Add carrots, butter, honey, and a splash of water to a skillet over medium heat.",
+        "Cover and cook for 6–8 minutes, stirring occasionally, until the carrots are almost tender.",
+        "Remove the lid and continue cooking for another 3–4 minutes to reduce the liquid and glaze the carrots.",
+        "Season with a pinch of salt and serve warm."
+    ],
+    "storage_tips": {
+        "refrigeration": "Store leftovers in an airtight container in the refrigerator for up to 4 days. Reheat gently in a skillet or microwave.",
+        "freezing": "Not recommended—carrots may become mushy and the glaze can separate.",
+        "make_ahead": "Can be made a few hours ahead and gently reheated before serving."
+    },
+    "equipment": {
+        "required": [
+            "skillet with lid",
+            "knife",
+            "cutting board",
+            "measuring spoons"
+        ],
+        "optional": [
+            "spatula or wooden spoon"
+        ]
+    }
+}
