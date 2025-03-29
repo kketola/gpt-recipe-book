@@ -1,0 +1,95 @@
+{
+    "name": "Mexican Street Corn Niblets (Esquites)",
+    "tags": [
+        "side dish",
+        "corn",
+        "Mexican",
+        "street food",
+        "vegetarian"
+    ],
+    "servings": 4,
+    "prep_time": "10 minutes",
+    "rest_time": "0 minutes",
+    "cook_time": "10 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "3 cups",
+            "grams": 450,
+            "ingredient": "corn niblets (frozen, canned, or fresh)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 14,
+            "ingredient": "unsalted butter (or mayo if preferred)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 30,
+            "ingredient": "mayonnaise"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 10,
+            "ingredient": "cotija cheese, crumbled (or feta or parmesan)"
+        },
+        {
+            "amount": "1 clove",
+            "grams": 3,
+            "ingredient": "garlic, minced (optional)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 30,
+            "ingredient": "lime juice, freshly squeezed"
+        },
+        {
+            "amount": "0.5 tsp",
+            "grams": 1,
+            "ingredient": "chili powder (or Tajín)"
+        },
+        {
+            "amount": "1 pinch",
+            "grams": 0.5,
+            "ingredient": "smoked paprika (optional)"
+        },
+        {
+            "amount": "1–2 tbsp",
+            "grams": 4,
+            "ingredient": "fresh cilantro, chopped"
+        },
+        {
+            "amount": "to taste",
+            "grams": 0,
+            "ingredient": "salt and black pepper"
+        }
+    ],
+    "instructions": [
+        "In a skillet over medium-high heat, melt the butter and add the corn niblets.",
+        "Sauté until the corn is lightly charred or fully heated through, about 5–7 minutes.",
+        "If using garlic, stir it in and cook for another 30 seconds until fragrant.",
+        "Remove from heat and stir in mayonnaise, lime juice, and chili powder.",
+        "Add crumbled cotija cheese and toss to coat.",
+        "Season with salt, pepper, and smoked paprika if using.",
+        "Top with chopped cilantro and an extra squeeze of lime if desired.",
+        "Serve warm in bowls or cups, with more cheese and Tajín sprinkled on top if you like."
+    ],
+    "storage_tips": {
+        "room_temp": "Not recommended to store at room temperature for food safety.",
+        "refrigeration": "Store leftovers in an airtight container in the fridge for up to 3 days. Reheat gently before serving.",
+        "freezing": "Not ideal for freezing due to the mayo and cheese."
+    },
+    "equipment": {
+        "required": [
+            "skillet",
+            "spoon or spatula",
+            "knife",
+            "cutting board",
+            "measuring spoons"
+        ],
+        "optional": [
+            "citrus juicer",
+            "cheese grater (if using block cheese)"
+        ]
+    }
+}
