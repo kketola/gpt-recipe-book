@@ -1,0 +1,69 @@
+{
+    "name": "Juicy Butter-Infused Beef Burger Patties",
+    "tags": [
+        "main course",
+        "beef",
+        "burgers",
+        "pan-seared"
+    ],
+    "servings": 4,
+    "prep_time": "10 minutes",
+    "rest_time": "3 minutes",
+    "cook_time": "6-8 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "500g",
+            "grams": 500,
+            "ingredient": "ground beef (80/20 chuck blend recommended)"
+        },
+        {
+            "amount": "4 tsp",
+            "grams": 20,
+            "ingredient": "cold unsalted butter or infused compound butter (e.g. garlic-herb), divided into 4 small cubes"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "kosher salt"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "freshly ground black pepper"
+        },
+        {
+            "amount": "4 slices",
+            "grams": null,
+            "ingredient": "cheese (optional, e.g. cheddar, Swiss, or American)"
+        }
+    ],
+    "instructions": [
+        "If using infused butter, prepare it ahead by melting butter with garlic or herbs, then chill until firm enough to cube.",
+        "Divide the ground beef into 4 portions (125g each).",
+        "Flatten each portion slightly and place a cube of cold butter (or infused butter) in the center.",
+        "Wrap the beef around the butter and gently form into a patty. Avoid overworking.",
+        "Season the outside of each patty generously with kosher salt and black pepper.",
+        "Heat a 5-ply stainless steel pan over medium-high heat until hot.",
+        "Place patties in the pan without crowding. Cook and flip as needed to prevent burning and ensure even browning.",
+        "Cook until the internal temperature reaches 135°F (medium), adding cheese slices during the final minute and covering briefly to melt.",
+        "Remove patties from the pan and let rest for 3 minutes before serving."
+    ],
+    "storage_tips": {
+        "room_temp": "Best enjoyed immediately after cooking and resting.",
+        "leftovers": "Cooked patties can be refrigerated in an airtight container for up to 3 days. Reheat gently in a pan or oven to retain juiciness.",
+        "freezing_raw": "Raw patties can be frozen for up to 3 months. For best results, freeze with parchment between layers and thaw in the fridge before cooking."
+    },
+    "equipment": {
+        "required": [
+            "stainless steel pan (5-ply or similar)",
+            "spatula",
+            "mixing bowl",
+            "kitchen scale (for portioning)"
+        ],
+        "optional": [
+            "instant-read thermometer",
+            "cheese melting dome or lid"
+        ]
+    }
+}
