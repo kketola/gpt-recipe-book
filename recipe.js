@@ -69,9 +69,10 @@ document.addEventListener("DOMContentLoaded", function () {
                 // Display Ingredients
                 if (recipe.ingredients && Array.isArray(recipe.ingredients)) {
                     detailsHTML += "<h2><i class='fa-solid fa-list'></i> Ingredients</h2><ul>";
-                    detailsHTML += recipe.ingredients.map(ing => 
-                        `<li>${ing.amount} (${ing.grams}g) - ${ing.ingredient}</li>`
-                    ).join("");
+                    detailsHTML += recipe.ingredients.map(ing => {
+						const gramsText = (ing.grams !== null && ing.grams !== undefined) ? ` (${ing.grams}g)` : "";
+						return `<li>${ing.amount}${gramsText} - ${ing.ingredient}</li>`;
+					}).join("");
                     detailsHTML += "</ul>";
                 }
 
