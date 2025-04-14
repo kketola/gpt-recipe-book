@@ -1,0 +1,62 @@
+{
+    "name": "Homemade Chinese Five-Spice Powder",
+    "tags": [
+        "spice blend",
+        "seasoning",
+        "asian",
+        "chinese"
+    ],
+    "servings": 1,
+    "prep_time": "10 minutes",
+    "rest_time": "5 minutes",
+    "cook_time": "3 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "1 tbsp",
+            "grams": 6,
+            "ingredient": "Szechuan peppercorns (or black peppercorns)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 6,
+            "ingredient": "whole cloves"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 6,
+            "ingredient": "fennel seeds"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 6,
+            "ingredient": "cassia bark (broken into small pieces)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 5,
+            "ingredient": "whole star anise (about 2–3 pods)"
+        }
+    ],
+    "instructions": [
+        "Break cassia bark into smaller 1–2 inch pieces for even toasting.",
+        "In a dry skillet over medium heat, toast the Szechuan peppercorns, cloves, fennel seeds, star anise, and cassia bark for about 2–3 minutes, stirring constantly until fragrant.",
+        "Remove from heat and let cool for about 5 minutes to prevent moisture during grinding.",
+        "Transfer the toasted spices to an electric spice grinder and grind until very fine. A mortar and pestle can be used, but it's much harder with tough spices like cassia and star anise.",
+        "Transfer to an airtight container and store in a cool, dry place for up to 6 months."
+    ],
+    "storage_tips": {
+        "room_temp": "Store in an airtight container in a cool, dry place away from light. Use within 6 months for optimal flavour."
+    },
+    "equipment": {
+        "required": [
+            "dry skillet",
+            "electric spice grinder",
+            "airtight spice container"
+        ],
+        "optional": [
+            "mortar and pestle (not ideal for woody spices)",
+            "kitchen scale"
+        ]
+    }
+}
