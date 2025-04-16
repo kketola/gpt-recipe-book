@@ -1,0 +1,85 @@
+{
+    "name": "Egg Salad Sandwich",
+    "tags": [
+        "lunch",
+        "sandwich",
+        "eggs",
+        "quick meal"
+    ],
+    "servings": 2,
+    "prep_time": "10 minutes",
+    "rest_time": "0 minutes",
+    "cook_time": "10 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "4",
+            "grams": 200,
+            "ingredient": "large eggs"
+        },
+        {
+            "amount": "3 tbsp",
+            "grams": 45,
+            "ingredient": "mayonnaise"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "Dijon mustard (optional)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 10,
+            "ingredient": "finely chopped celery (optional)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 2,
+            "ingredient": "finely chopped chives or green onions"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "salt"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "black pepper"
+        },
+        {
+            "amount": "4 slices",
+            "grams": 120,
+            "ingredient": "sandwich bread"
+        },
+        {
+            "amount": "as needed",
+            "grams": null,
+            "ingredient": "butter or lettuce (optional)"
+        }
+    ],
+    "instructions": [
+        "Place the eggs in a pot and cover with cold water. Bring to a boil, then turn off the heat, cover, and let sit for 10 minutes.",
+        "Transfer eggs to an ice water bath until cool, then peel and chop.",
+        "In a bowl, combine the chopped eggs with mayonnaise, mustard, celery, chives, salt, and pepper. Mix gently until well combined.",
+        "Toast the bread if desired. Optionally spread with butter or lay down lettuce.",
+        "Divide the egg salad between two slices of bread and top with the remaining slices.",
+        "Cut in half and serve immediately, or wrap and refrigerate for later."
+    ],
+    "storage_tips": {
+        "room_temp": "Best eaten fresh. Keep at room temperature for no more than 2 hours.",
+        "refrigeration": "Store leftover egg salad in an airtight container in the fridge for up to 3 days. Assemble sandwiches just before eating for best texture."
+    },
+    "equipment": {
+        "required": [
+            "pot",
+            "bowl",
+            "knife",
+            "cutting board"
+        ],
+        "optional": [
+            "toaster",
+            "spatula"
+        ]
+    }
+}
