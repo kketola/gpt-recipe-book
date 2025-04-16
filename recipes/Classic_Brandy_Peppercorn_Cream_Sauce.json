@@ -1,0 +1,76 @@
+{
+    "name": "Classic Brandy Peppercorn Cream Sauce",
+    "tags": [
+        "sauce",
+        "steak sauce",
+        "peppercorn",
+        "brandy",
+        "cream"
+    ],
+    "servings": 2,
+    "prep_time": "2 minutes",
+    "rest_time": null,
+    "cook_time": "8 minutes",
+    "chill_time": null,
+    "ingredients": [
+        {
+            "amount": "1 tsp",
+            "grams": 2,
+            "ingredient": "whole black peppercorns, lightly crushed"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 10,
+            "ingredient": "shallot, finely minced (or onion)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 30,
+            "ingredient": "brandy"
+        },
+        {
+            "amount": "1/4 cup",
+            "grams": 60,
+            "ingredient": "beef stock"
+        },
+        {
+            "amount": "1/4 cup",
+            "grams": 60,
+            "ingredient": "heavy cream (35%)"
+        },
+        {
+            "amount": "1/2 tsp",
+            "grams": 2,
+            "ingredient": "Dijon mustard (optional)"
+        },
+        {
+            "amount": "1/2 tbsp",
+            "grams": 7,
+            "ingredient": "cold unsalted butter"
+        }
+    ],
+    "instructions": [
+        "After cooking your steak, reduce the pan heat to medium-low and discard the garlic and herbs.",
+        "Add crushed peppercorns and minced shallot to the pan. Sauté for about 1 minute, stirring constantly.",
+        "Add brandy and stir, scraping up any browned bits (fond). Let it reduce by half.",
+        "Add beef stock and reduce again until slightly thickened. Keep the heat moderate to avoid scorching if using stainless steel.",
+        "Stir in the cream and optional Dijon mustard. Simmer gently until the sauce coats the back of a spoon.",
+        "Remove from heat and stir in cold butter to finish the sauce and add sheen.",
+        "Serve immediately over sliced steak or on the side."
+    ],
+    "storage_tips": {
+        "room_temp": "Not recommended. Sauce should be cooled and refrigerated within 2 hours.",
+        "freezing_cooked": "Not ideal, as cream sauces can split when reheated. Best made fresh or stored up to 3 days in the fridge."
+    },
+    "equipment": {
+        "required": [
+            "small skillet",
+            "spoon",
+            "measuring spoons",
+            "knife"
+        ],
+        "optional": [
+            "fine mesh strainer (for smoother sauce)"
+        ]
+    }
+}

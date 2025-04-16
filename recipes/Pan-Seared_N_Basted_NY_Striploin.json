@@ -1,0 +1,85 @@
+{
+    "name": "Pan-Seared & Basted NY Striploin",
+    "tags": [
+        "main",
+        "steak",
+        "beef",
+        "pan-seared",
+        "basted"
+    ],
+    "servings": 2,
+    "prep_time": "5 minutes",
+    "rest_time": "5 minutes",
+    "cook_time": "6 minutes",
+    "chill_time": null,
+    "ingredients": [
+        {
+            "amount": "1",
+            "grams": 300,
+            "ingredient": "New York striploin steak (about 10–12 oz)"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "kosher salt"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "freshly ground black pepper"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "neutral oil (e.g., grapeseed or canola)"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 14,
+            "ingredient": "unsalted butter"
+        },
+        {
+            "amount": "1 clove",
+            "grams": 4,
+            "ingredient": "garlic, smashed"
+        },
+        {
+            "amount": "1 sprig",
+            "grams": 1,
+            "ingredient": "fresh thyme"
+        },
+        {
+            "amount": "1 sprig",
+            "grams": 1,
+            "ingredient": "fresh rosemary"
+        }
+    ],
+    "instructions": [
+        "Let the steak rest at room temperature for about 30 minutes.",
+        "Pat dry with paper towels and season both sides generously with kosher salt and black pepper.",
+        "Heat a stainless steel skillet over medium-high heat. Add the neutral oil.",
+        "Once the oil is shimmering, place the steak in the pan and sear undisturbed for about 2–3 minutes per side, depending on thickness.",
+        "Begin checking internal temperature. Once the steak reaches around 90–95°F (32–35°C), reduce the heat to medium or medium-low to avoid burning the butter.",
+        "Add butter, smashed garlic, thyme, and rosemary to the pan.",
+        "Tilt the pan and use a spoon to baste the steak with the melted butter and aromatics while continuing to cook.",
+        "Continue basting and flipping until the steak reaches an internal temperature of 125–128°F (52–53°C).",
+        "Remove the steak from the pan and let it rest under foil for 5 minutes. It will rise to medium-rare (130–135°F / 54–57°C) as it rests.",
+        "Discard the garlic and herbs from the pan if making a pan sauce."
+    ],
+    "storage_tips": {
+        "room_temp": "Not recommended. Steak should be refrigerated after cooling.",
+        "freezing_cooked": "Wrap tightly and freeze for up to 2 months. Best if sliced before freezing for quicker reheating."
+    },
+    "equipment": {
+        "required": [
+            "stainless steel skillet",
+            "tongs",
+            "spoon",
+            "knife",
+            "cutting board"
+        ],
+        "optional": [
+            "meat thermometer"
+        ]
+    }
+}
