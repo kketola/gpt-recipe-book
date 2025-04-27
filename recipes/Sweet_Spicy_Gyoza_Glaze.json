@@ -1,0 +1,84 @@
+{
+  "name": "Sweet & Spicy Gyoza Glaze",
+  "tags": [
+    "sauce",
+    "asian",
+    "dumplings",
+    "glaze"
+  ],
+  "servings": 4,
+  "prep_time": "5 minutes",
+  "cook_time": "2 minutes",
+  "rest_time": "0 minutes",
+  "chill_time": "0 minutes",
+  "ingredients": [
+    {
+      "amount": "2 tablespoons",
+      "grams": null,
+      "ingredient": "soy sauce"
+    },
+    {
+      "amount": "1 tablespoon",
+      "grams": null,
+      "ingredient": "hoisin sauce"
+    },
+    {
+      "amount": "1 tablespoon",
+      "grams": null,
+      "ingredient": "rice vinegar"
+    },
+    {
+      "amount": "1 teaspoon",
+      "grams": null,
+      "ingredient": "sriracha"
+    },
+    {
+      "amount": "1 teaspoon",
+      "grams": 4,
+      "ingredient": "sugar"
+    },
+    {
+      "amount": "½ teaspoon",
+      "grams": null,
+      "ingredient": "sesame oil"
+    },
+    {
+      "amount": "2 tablespoons",
+      "grams": 30,
+      "ingredient": "water"
+    },
+    {
+      "amount": "½ teaspoon",
+      "grams": 1,
+      "ingredient": "cornstarch"
+    },
+    {
+      "amount": "2 stalks",
+      "grams": null,
+      "ingredient": "green onion, thinly sliced (for garnish)"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the water and cornstarch to make a slurry.",
+    "In a small saucepan, combine soy sauce, hoisin sauce, rice vinegar, sriracha, sugar, and sesame oil.",
+    "Heat the sauce gently over medium-low heat until it starts to bubble.",
+    "Add the cornstarch slurry and stir constantly for 30–60 seconds until the glaze thickens and becomes glossy.",
+    "Toss cooked gyoza in the glaze or brush it over them.",
+    "Garnish with thinly sliced green onions just before serving."
+  ],
+  "storage_tips": "Store leftover glaze in an airtight container in the fridge for up to 3 days. Reheat gently before using.",
+  "equipment": [
+    {
+      "item": "small saucepan",
+      "required": true
+    },
+    {
+      "item": "small whisk or spoon",
+      "required": true
+    },
+    {
+      "item": "basting brush",
+      "required": false
+    }
+  ]
+}
