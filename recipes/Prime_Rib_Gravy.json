@@ -1,0 +1,69 @@
+{
+    "name": "Prime Rib Gravy",
+    "tags": [
+        "gravy",
+        "sauce",
+        "beef",
+        "prime rib"
+    ],
+    "servings": 6,
+    "prep_time": "5 minutes",
+    "rest_time": "0 minutes",
+    "cook_time": "15 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "500 ml",
+            "grams": null,
+            "ingredient": "prime rib cooking juices (defatted if necessary)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 28,
+            "ingredient": "unsalted butter (or reserved beef fat)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 16,
+            "ingredient": "all-purpose flour"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 3,
+            "ingredient": "Worcestershire sauce (optional, for depth)"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "freshly ground black pepper"
+        },
+        {
+            "amount": "to taste",
+            "grams": null,
+            "ingredient": "salt (only if needed)"
+        }
+    ],
+    "instructions": [
+        "If there is a significant fat layer on the prime rib juices, skim it off and reserve the fat separately.",
+        "In a saucepan over medium heat, melt the butter or beef fat.",
+        "Add the flour and whisk constantly for 1–2 minutes to form a roux and cook out the raw flour taste.",
+        "Slowly whisk in the prime rib juices, starting with a small amount to form a paste, then gradually adding the rest while whisking continuously.",
+        "Bring to a gentle simmer, stirring often, and cook for 5–8 minutes until thickened.",
+        "Season with Worcestershire sauce, pepper, and salt if needed.",
+        "For a silky smooth gravy, strain through a fine mesh sieve before serving."
+    ],
+    "storage_tips": {
+        "room_temp": "Keep warm and serve within 2 hours.",
+        "refrigeration": "Store cooled gravy in an airtight container for up to 3 days. Reheat gently, thinning with a splash of water or broth if needed.",
+        "freezing": "Gravy can be frozen for up to 3 months. Thaw overnight in the fridge and reheat gently while whisking."
+    },
+    "equipment": {
+        "required": [
+            "saucepan",
+            "whisk"
+        ],
+        "optional": [
+            "fine mesh strainer"
+        ]
+    }
+}
