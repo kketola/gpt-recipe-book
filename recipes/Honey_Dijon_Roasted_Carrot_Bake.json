@@ -1,0 +1,94 @@
+{
+    "name": "Honey Dijon Roasted Carrot Bake",
+    "tags": [
+        "vegetable side",
+        "carrots",
+        "prime rib sides",
+        "holiday sides"
+    ],
+    "servings": 4,
+    "prep_time": "15 minutes",
+    "rest_time": "5 minutes",
+    "cook_time": "40 minutes",
+    "chill_time": null,
+    "ingredients": [
+        {
+            "amount": "500g",
+            "grams": 500,
+            "ingredient": "carrots, sliced 3–4mm thick"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 27,
+            "ingredient": "olive oil (or melted butter)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 30,
+            "ingredient": "Dijon mustard"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 42,
+            "ingredient": "honey (or pure maple syrup)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "apple cider vinegar (or lemon juice)"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 1,
+            "ingredient": "smoked paprika (optional)"
+        },
+        {
+            "amount": "½ tsp",
+            "grams": 3,
+            "ingredient": "kosher salt"
+        },
+        {
+            "amount": "¼ tsp",
+            "grams": 0.5,
+            "ingredient": "black pepper"
+        },
+        {
+            "amount": "¼ cup",
+            "grams": 30,
+            "ingredient": "pecans or walnuts, chopped (optional, toasted)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 8,
+            "ingredient": "fresh parsley, chopped (for garnish)"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 375°F (190°C). Lightly grease a 9x16-inch baking dish.",
+        "In a large bowl, whisk together olive oil, Dijon mustard, honey, apple cider vinegar, smoked paprika (if using), salt, and pepper until smooth.",
+        "Add sliced carrots and toss well to coat evenly in the glaze.",
+        "Spread glazed carrots evenly into the prepared baking dish.",
+        "Cover tightly with foil and bake for 25 minutes.",
+        "Meanwhile, toast the chopped nuts in a dry skillet over medium heat for 3–5 minutes, stirring often, until fragrant and lightly golden. Set aside.",
+        "Remove the foil from the carrots. Sprinkle toasted nuts evenly over the top.",
+        "Return dish to the oven and bake uncovered for an additional 10–15 minutes, until the carrots are tender and slightly caramelized.",
+        "Let cool for 5 minutes, then sprinkle with fresh chopped parsley before serving."
+    ],
+    "storage_tips": {
+        "room_temp": "Hold at room temperature for up to 2 hours before serving if needed. Reheat gently if desired.",
+        "refrigeration": "Store leftovers covered in the fridge for up to 3 days. Reheat covered at 325°F until warmed through."
+    },
+    "equipment": {
+        "required": [
+            "oven",
+            "mixing bowl",
+            "whisk",
+            "baking dish (9x16 inch)",
+            "aluminum foil",
+            "skillet (for toasting nuts)"
+        ],
+        "optional": [
+            "small offset spatula (to help spread carrots evenly)"
+        ]
+    }
+}
