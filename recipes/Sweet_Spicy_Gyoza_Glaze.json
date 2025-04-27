@@ -66,19 +66,17 @@
     "Toss cooked gyoza in the glaze or brush it over them.",
     "Garnish with thinly sliced green onions just before serving."
   ],
-  "storage_tips": "Store leftover glaze in an airtight container in the fridge for up to 3 days. Reheat gently before using.",
-  "equipment": [
-    {
-      "item": "small saucepan",
-      "required": true
-    },
-    {
-      "item": "small whisk or spoon",
-      "required": true
-    },
-    {
-      "item": "basting brush",
-      "required": false
-    }
-  ]
+  "storage_tips": {
+    "fridge": "Store leftover glaze in an airtight container in the fridge for up to 3 days.",
+    "reheating": "Reheat gently over low heat, adding a splash of water if it becomes too thick."
+  },
+  "equipment": {
+    "required": [
+      "small saucepan",
+      "small whisk or spoon"
+    ],
+    "optional": [
+      "basting brush"
+    ]
+  }
 }
