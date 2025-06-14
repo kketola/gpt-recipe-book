@@ -1,0 +1,75 @@
+{
+    "name": "Garlic Herb Compound Butter",
+    "tags": [
+        "sauce",
+        "steak topping",
+        "butter",
+        "compound butter",
+        "make-ahead"
+    ],
+    "servings": 8,
+    "prep_time": "10 minutes",
+    "rest_time": "30 minutes",
+    "cook_time": "0 minutes",
+    "chill_time": "30 minutes",
+    "ingredients": [
+        {
+            "amount": "\u00bd cup",
+            "grams": 113,
+            "ingredient": "unsalted butter, room temperature"
+        },
+        {
+            "amount": "1",
+            "grams": 3,
+            "ingredient": "small garlic clove, finely grated or mashed"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 4,
+            "ingredient": "fresh parsley, finely chopped"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 1,
+            "ingredient": "fresh thyme leaves, finely chopped"
+        },
+        {
+            "amount": "\u00bd tsp",
+            "grams": 3,
+            "ingredient": "kosher salt"
+        },
+        {
+            "amount": "\u00bd tsp",
+            "grams": 1,
+            "ingredient": "freshly ground black pepper"
+        },
+        {
+            "amount": "\u00bd tsp",
+            "grams": 1,
+            "ingredient": "lemon zest (optional, for brightness)"
+        }
+    ],
+    "instructions": [
+        "In a bowl, combine the softened butter with garlic, parsley, thyme, salt, pepper, and lemon zest if using.",
+        "Mash and mix with a fork or spatula until thoroughly combined and smooth.",
+        "Spoon the mixture onto a piece of parchment or plastic wrap.",
+        "Form into a log shape and twist the ends to seal.",
+        "Chill in the refrigerator for at least 30 minutes or until firm.",
+        "Slice into coins and serve over hot steaks just after plating."
+    ],
+    "storage_tips": {
+        "fridge": "Store in an airtight container or wrapped log for up to 1 week.",
+        "freezer": "Freeze for up to 3 months. Pre-slice into coins for convenience."
+    },
+    "equipment": {
+        "required": [
+            "mixing bowl",
+            "fork or spatula",
+            "plastic wrap or parchment paper",
+            "refrigerator"
+        ],
+        "optional": [
+            "microplane (for garlic and zest)"
+        ]
+    }
+}
