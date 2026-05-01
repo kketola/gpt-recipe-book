@@ -1,0 +1,179 @@
+{
+    "name": "Restaurant-Quality Gochujang Crispy Tofu with Stir-Fried Vegetables",
+    "tags": [
+        "dinner",
+        "asian",
+        "korean-inspired",
+        "tofu",
+        "vegetarian",
+        "stir fry"
+    ],
+    "servings": 3,
+    "prep_time": "20 minutes",
+    "rest_time": "30 minutes",
+    "cook_time": "25 minutes",
+    "chill_time": "0 minutes",
+    "ingredients": [
+        {
+            "amount": "1 block",
+            "grams": 450,
+            "ingredient": "extra-firm tofu, pressed for 30 minutes"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 16,
+            "ingredient": "cornstarch"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 16,
+            "ingredient": "potato starch"
+        },
+        {
+            "amount": "1/2 tsp",
+            "grams": 3,
+            "ingredient": "kosher salt"
+        },
+        {
+            "amount": "4 tbsp",
+            "grams": 56,
+            "ingredient": "neutral oil (for shallow frying)"
+        },
+        {
+            "amount": "2 tbsp",
+            "grams": 36,
+            "ingredient": "gochujang"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "soy sauce"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "dark soy sauce"
+        },
+        {
+            "amount": "1 1/2 tbsp",
+            "grams": 32,
+            "ingredient": "honey"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 12,
+            "ingredient": "brown sugar"
+        },
+        {
+            "amount": "1 tbsp",
+            "grams": 15,
+            "ingredient": "rice vinegar"
+        },
+        {
+            "amount": "2 cloves",
+            "grams": 6,
+            "ingredient": "garlic, finely minced"
+        },
+        {
+            "amount": "1 1/2 tsp",
+            "grams": 4,
+            "ingredient": "fresh ginger, grated"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "sesame oil"
+        },
+        {
+            "amount": "3 tbsp",
+            "grams": 45,
+            "ingredient": "water"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 3,
+            "ingredient": "cornstarch (for sauce)"
+        },
+        {
+            "amount": "1 cup",
+            "grams": 90,
+            "ingredient": "broccoli florets"
+        },
+        {
+            "amount": "1/2",
+            "grams": 75,
+            "ingredient": "red bell pepper, sliced"
+        },
+        {
+            "amount": "1/2",
+            "grams": 75,
+            "ingredient": "yellow bell pepper, sliced"
+        },
+        {
+            "amount": "3/4 cup",
+            "grams": 90,
+            "ingredient": "snap peas"
+        },
+        {
+            "amount": "1/2",
+            "grams": 80,
+            "ingredient": "small onion, sliced"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "soy sauce (for vegetables)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "Shaoxing wine"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "sesame oil (for vegetables)"
+        },
+        {
+            "amount": "2",
+            "grams": 20,
+            "ingredient": "green onions, sliced"
+        },
+        {
+            "amount": "1 1/2 tsp",
+            "grams": 4,
+            "ingredient": "toasted sesame seeds"
+        }
+    ],
+    "instructions": [
+        "Press the tofu for 30 minutes to remove excess moisture, then cut into 1-inch cubes.",
+        "Toss the tofu gently with kosher salt, cornstarch, and potato starch until evenly coated. Let rest for 5–10 minutes to hydrate the coating.",
+        "Heat neutral oil in a pan over medium-high heat. Fry the tofu in a single layer, turning on all sides, until deeply golden and crispy, about 12–15 minutes total. Transfer to a rack to maintain crispness.",
+        "While the tofu cooks, prepare the sauce by whisking together gochujang, soy sauce, dark soy sauce, honey, brown sugar, rice vinegar, garlic, ginger, sesame oil, water, and cornstarch until smooth.",
+        "In a hot pan with a small amount of oil, stir-fry the onion for 45 seconds, then add broccoli and snap peas and cook for 2–3 minutes. Add bell peppers and cook for 1–2 minutes. Finish with soy sauce, Shaoxing wine, and sesame oil. Remove and set aside.",
+        "Pour the prepared sauce into the pan over medium heat and cook for 45–60 seconds until thickened and glossy.",
+        "Add the crispy tofu to the sauce and toss quickly to coat evenly.",
+        "Return the vegetables to the pan and toss for no more than 30–45 seconds to combine while maintaining texture.",
+        "Serve immediately, garnished with sliced green onions and toasted sesame seeds."
+    ],
+    "storage_tips": {
+        "room_temp": "Serve immediately for best texture; not recommended to hold at room temperature.",
+        "refrigeration": "Store leftovers in an airtight container for up to 3 days; reheat in a pan or air fryer to restore some crispness."
+    },
+    "equipment": {
+        "required": [
+            "stovetop",
+            "frying pan or wok",
+            "mixing bowls",
+            "knife",
+            "cutting board",
+            "tongs or spatula",
+            "wire rack"
+        ],
+        "optional": [
+            "tofu press",
+            "microplane for ginger",
+            "squeeze bottle for sauce"
+        ]
+    }
+}
