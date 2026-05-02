@@ -45,24 +45,19 @@
             "ingredient": "gochujang"
         },
         {
-            "amount": "1 tbsp",
-            "grams": 15,
+            "amount": "2 tbsp",
+            "grams": 30,
             "ingredient": "soy sauce"
         },
         {
-            "amount": "1 tbsp",
-            "grams": 15,
-            "ingredient": "dark soy sauce"
+            "amount": "2 tsp",
+            "grams": 8,
+            "ingredient": "brown sugar (includes replacement for dark soy)"
         },
         {
             "amount": "1 1/2 tbsp",
             "grams": 32,
             "ingredient": "honey"
-        },
-        {
-            "amount": "1 tbsp",
-            "grams": 12,
-            "ingredient": "brown sugar"
         },
         {
             "amount": "1 tbsp",
@@ -93,6 +88,11 @@
             "amount": "1 tsp",
             "grams": 3,
             "ingredient": "cornstarch (for sauce)"
+        },
+        {
+            "amount": "1 tsp",
+            "grams": 5,
+            "ingredient": "dry sherry (replacement for Shaoxing wine)"
         },
         {
             "amount": "1 cup",
@@ -127,11 +127,6 @@
         {
             "amount": "1 tsp",
             "grams": 5,
-            "ingredient": "Shaoxing wine"
-        },
-        {
-            "amount": "1 tsp",
-            "grams": 5,
             "ingredient": "sesame oil (for vegetables)"
         },
         {
@@ -148,9 +143,9 @@
     "instructions": [
         "Press the tofu for 30 minutes to remove excess moisture, then cut into 1-inch cubes.",
         "Toss the tofu gently with kosher salt, cornstarch, and potato starch until evenly coated. Let rest for 5–10 minutes to hydrate the coating.",
-        "Heat neutral oil in a pan over medium-high heat. Fry the tofu in a single layer, turning on all sides, until deeply golden and crispy, about 12–15 minutes total. Transfer to a rack to maintain crispness.",
-        "While the tofu cooks, prepare the sauce by whisking together gochujang, soy sauce, dark soy sauce, honey, brown sugar, rice vinegar, garlic, ginger, sesame oil, water, and cornstarch until smooth.",
-        "In a hot pan with a small amount of oil, stir-fry the onion for 45 seconds, then add broccoli and snap peas and cook for 2–3 minutes. Add bell peppers and cook for 1–2 minutes. Finish with soy sauce, Shaoxing wine, and sesame oil. Remove and set aside.",
+        "Heat neutral oil in a pan over medium-high heat. Fry the tofu in a single layer, turning on all sides, until deeply golden and crispy, about 12–15 minutes total. Transfer to a wire rack to maintain crispness.",
+        "While the tofu cooks, prepare the sauce by whisking together gochujang, soy sauce, brown sugar, honey, rice vinegar, garlic, ginger, sesame oil, water, cornstarch, and dry sherry until smooth.",
+        "In a hot pan with a small amount of oil, stir-fry the onion for 45 seconds, then add broccoli and snap peas and cook for 2–3 minutes. Add bell peppers and cook for 1–2 minutes. Finish with soy sauce and sesame oil. Remove and set aside.",
         "Pour the prepared sauce into the pan over medium heat and cook for 45–60 seconds until thickened and glossy.",
         "Add the crispy tofu to the sauce and toss quickly to coat evenly.",
         "Return the vegetables to the pan and toss for no more than 30–45 seconds to combine while maintaining texture.",
